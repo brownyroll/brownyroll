@@ -27,9 +27,18 @@ function incrementUpdateCount(content) {
   return content.replace(/<!--UPDATE_COUNT-->.*<!--END_UPDATE_COUNT-->/, `<!--UPDATE_COUNT-->${currentCount + 1}<!--END_UPDATE_COUNT-->`);
 }
 
+// function insertTimestamp(content) {
+//   const timestamp = dayjs().utcOffset(7).format("DD MMMM YYYY HH:mm:ss");
+//   return content.replace(/<!--LAST_UPDATED-->.*<!--END_LAST_UPDATED-->/, `<!--LAST_UPDATED-->${timestamp}<!--END_LAST_UPDATED-->`);
+// }
 function insertTimestamp(content) {
-  const timestamp = dayjs().utcOffset(7).format("DD MMMM YYYY HH:mm:ss");
-  return content.replace(/<!--LAST_UPDATED-->.*<!--END_LAST_UPDATED-->/, `<!--LAST_UPDATED-->${timestamp}<!--END_LAST_UPDATED-->`);
+  const now = new Date();
+  const thaiTime = new Date(now.getTime() + (7 * 60 * 60 * 1000));
+  const timestamp = dayjs(thaiTime).format("DD MMMM YYYY HH:mm:ss");
+  return content.replace(
+    /<!--LAST_UPDATED-->.*<!--END_LAST_UPDATED-->/, 
+    `<!--LAST_UPDATED-->${timestamp} (UTC+7)<!--END_LAST_UPDATED-->`
+  );
 }
 
 (async () => {
