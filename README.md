@@ -1,37 +1,62 @@
 <h1 align="center">Hi 👋, I'm Bamz Kittisak Udomsri</h1>
-<h3 align="center">A passionate Fullstack developer from Thailand</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brownyroll" alt="brownyroll" /></a> </p>
+<h3 align="center">Fullstack Developer from Thailand 🇹🇭</h3>
 
-- 🔭 I’m currently working on [Brownyrollz](https://github.com/Brownyrollz)
-
-- 👯 I’m looking to collaborate on [Project Course Manager System for Teacher](https://github.com/RMUTT-Dev/ithesis-frontend)
-
-- 👨‍💻 All of my projects are available at [https://Brownyrollz.in.th/Portfolio](https://Brownyrollz.in.th/Portfolio)
-
-- 📫 How to reach me **bwny@brownyrollz.in.th**
-
-- 📄 Know about my experiences [https://Brownyrollz.in.th/Resume](https://Brownyrollz.in.th/Resume)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/brownyroll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="brownyroll" height="30" width="40" /></a>
-<a href="https://fb.com/brownyroll.bbamz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="brownyroll.bbamz" height="30" width="40" /></a>
-<a href="https://instagram.com/brownyroll.darkalich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brownyroll.darkalich" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/brownyrollz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="brownyrollz" height="30" width="40" /></a>
-<a href="https://discord.gg/yyJRFxTXGU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yyJRFxTXGU" height="30" width="40" /></a>
-<a href="https://discord.gg/65jF3WbP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yyJRFxTXGU" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=brownyroll&theme=algolia" alt="Trophies" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brownyroll&show_icons=true&locale=en&layout=compact" alt="brownyroll" /></p>
+### 🔧 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brownyroll&show_icons=true&locale=en" alt="brownyroll" /></p>
-<figure><embed src="https://wakatime.com/share/@896383b6-c21d-4862-8145-207435563b89/5d1d6236-fa4f-47c8-af3f-b3d4b786ba2f.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@896383b6-c21d-4862-8145-207435563b89/6701309f-96d9-453b-8697-36650d8211d0.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@896383b6-c21d-4862-8145-207435563b89/4edfa2ce-b9a2-4cd5-88fe-b7492183c97e.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@896383b6-c21d-4862-8145-207435563b89/bffd73ab-b85f-406a-ab6f-7a7eda39f5cb.svg"></embed></figure>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brownyroll&" alt="brownyroll" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brownyroll&label=Profile%20views&color=0e75b6&style=flat" alt="brownyroll" /> </p>
+- 🔭 Working on [**Brownyrollz**](https://github.com/Brownyrollz)
+- 🌐 Portfolio: [brownyrollz.in.th/Portfolio](https://Brownyrollz.in.th/Portfolio)
+- 📄 Resume: [brownyrollz.in.th/Resume](https://Brownyrollz.in.th/Resume)
+- 📫 Email: **me@brownyrollz.in.th**
 
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://codepen.io/brownyroll" target="_blank"><img src="https://img.shields.io/badge/CodePen-000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+  <a href="https://fb.com/brownyroll.bbamz" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/brownyroll.darkalich" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/c/brownyrollz" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://discord.gg/yyJRFxTXGU" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+
+---
+
+### 💻 Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,vue,php,laravel,dotnet,django,tailwind,bootstrap,express,arduino,mysql,sqlite,mongodb,mariadb,mssql,nginx,docker,git,linux,figma,postman" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brownyroll&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brownyroll&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brownyroll&theme=radical" />
+</p>
+
+---
+
+### ⏱️ WakaTime Stats
+
+<p align="center">
+  <img src="https://wakatime.com/share/@896383b6-c21d-4862-8145-207435563b89/5d1d6236-fa4f-47c8-af3f-b3d4b786ba2f.svg" alt="WakaTime Weekly" />
+  <img src="https://wakatime.com/share/@896383b6-c21d-4862-8145-207435563b89/6701309f-96d9-453b-8697-36650d8211d0.svg" alt="WakaTime Monthly" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=brownyroll&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
