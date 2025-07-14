@@ -28,7 +28,7 @@ function incrementUpdateCount(content) {
 }
 
 function insertTimestamp(content) {
-  const timestamp = dayjs().format("DD MMMM YYYY HH:mm:ss");
+  const timestamp = dayjs().utcOffset(7).format("DD MMMM YYYY HH:mm:ss");
   return content.replace(/<!--LAST_UPDATED-->.*<!--END_LAST_UPDATED-->/, `<!--LAST_UPDATED-->${timestamp}<!--END_LAST_UPDATED-->`);
 }
 
