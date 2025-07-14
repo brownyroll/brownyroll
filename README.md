@@ -41,6 +41,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+    <!-- WakaTime stats section -->
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
   <img src="https://github-readme-stats.vercel.app/api?username=brownyroll&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brownyroll&layout=compact" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=brownyroll" />
@@ -59,4 +62,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=brownyroll&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  Last Updated: <!--LAST_UPDATED--><!--END_LAST_UPDATED-->
+  Update Count: <!--UPDATE_COUNT-->0<!--END_UPDATE_COUNT-->
 </p>
