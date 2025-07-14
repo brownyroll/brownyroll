@@ -39,6 +39,7 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brownyroll&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brownyroll&layout=compact" />
@@ -47,19 +48,19 @@
 
 ---
 
+### 📊 Discord Stats
+
+<p align="center">
+     <img alt='Discord Status lanyard' src='https://lanyard.cnrad.dev/api/280676963885121536' />
+</p>
+---
+
 ### ⏱️ WakaTime Stats
+
 <p align="center">
     <!-- WakaTime stats section -->
     <!--START_SECTION:waka-->
-
-📊 **WakaTime stats (last 7 days)**
-
-- **Other**: 5 hrs 1 min
-- **TypeScript**: 57 mins
-- **YAML**: 13 mins
-- **Python**: 10 mins
-- **Prisma**: 4 mins
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </p>
 
 <p align="center">
@@ -74,6 +75,8 @@
 </p>
 
 <p align="center"> 
-    Last Updated: <!--LAST_UPDATED-->14 July 2025 16:15:49<!--END_LAST_UPDATED-->
-    Update Count: <!--UPDATE_COUNT-->1<!--END_UPDATE_COUNT-->
+    <i>
+        ⏰ Last Updated: <!--LAST_UPDATED--><!--END_LAST_UPDATED-->
+        🔄️ Update Count: <!--UPDATE_COUNT-->0<!--END_UPDATE_COUNT-->
+    </i>
 </p>
