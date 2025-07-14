@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=brownyroll&theme=algolia" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=brownyroll" alt="Trophies" />
   </a>
 </p>
 
@@ -41,9 +41,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brownyroll&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brownyroll&layout=compact&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brownyroll&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brownyroll&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brownyroll&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brownyroll" />
 </p>
 
 ---
