@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bamz Kittisak Udomsri</h1>
 <h3 align="center">A passionate Fullstack developer from Thailand</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brownyroll&label=Profile%20views&color=0e75b6&style=flat" alt="brownyroll" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brownyroll" alt="brownyroll" /></a> </p>
 
 - 🔭 I’m currently working on [Brownyrollz](https://github.com/Brownyrollz)
@@ -31,5 +28,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brownyroll&show_icons=true&locale=en&layout=compact" alt="brownyroll" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brownyroll&show_icons=true&locale=en" alt="brownyroll" /></p>
-
+<figure><embed src="https://wakatime.com/share/@896383b6-c21d-4862-8145-207435563b89/5d1d6236-fa4f-47c8-af3f-b3d4b786ba2f.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@896383b6-c21d-4862-8145-207435563b89/6701309f-96d9-453b-8697-36650d8211d0.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@896383b6-c21d-4862-8145-207435563b89/4edfa2ce-b9a2-4cd5-88fe-b7492183c97e.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@896383b6-c21d-4862-8145-207435563b89/bffd73ab-b85f-406a-ab6f-7a7eda39f5cb.svg"></embed></figure>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brownyroll&" alt="brownyroll" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brownyroll&label=Profile%20views&color=0e75b6&style=flat" alt="brownyroll" /> </p>
+
