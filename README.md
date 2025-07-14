@@ -43,7 +43,15 @@
 <p align="center">
     <!-- WakaTime stats section -->
     <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+
+📊 **WakaTime stats (last 7 days)**
+
+- **Other**: 5 hrs 1 min
+- **TypeScript**: 57 mins
+- **YAML**: 13 mins
+- **Python**: 10 mins
+- **Prisma**: 4 mins
+<!--END_SECTION:waka-->
   <img src="https://github-readme-stats.vercel.app/api?username=brownyroll&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brownyroll&layout=compact" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=brownyroll" />
@@ -62,6 +70,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=brownyroll&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  Last Updated: <!--LAST_UPDATED--><!--END_LAST_UPDATED-->
-  Update Count: <!--UPDATE_COUNT-->0<!--END_UPDATE_COUNT-->
+  Last Updated: <!--LAST_UPDATED-->14 July 2025 15:30:46<!--END_LAST_UPDATED-->
+  Update Count: <!--UPDATE_COUNT-->1<!--END_UPDATE_COUNT-->
 </p>
