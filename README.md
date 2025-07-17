@@ -64,8 +64,8 @@
 
 📊 **WakaTime stats (last 7 days)**
 
-- **Other**: 6 hrs 31 mins
-- **TypeScript**: 3 hrs 43 mins
+- **Other**: 12 hrs 54 mins
+- **TypeScript**: 3 hrs 45 mins
 - **JavaScript**: 1 hr 28 mins
 - **Markdown**: 1 hr 11 mins
 - **Vue.js**: 47 mins
@@ -86,7 +86,7 @@
 
 <p align="center"> 
     <i>
-        ⏰ Last Updated: <!--LAST_UPDATED-->18 July 2025 00:12:25 (UTC+7)<!--END_LAST_UPDATED-->
-        🔄️ Update Count: <!--UPDATE_COUNT-->71<!--END_UPDATE_COUNT-->
+        ⏰ Last Updated: <!--LAST_UPDATED-->18 July 2025 01:17:30 (UTC+7)<!--END_LAST_UPDATED-->
+        🔄️ Update Count: <!--UPDATE_COUNT-->72<!--END_UPDATE_COUNT-->
     </i>
 </p>
