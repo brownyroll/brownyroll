@@ -53,6 +53,7 @@
 <p align="center">
      <img alt='Discord Status lanyard' src='https://lanyard.cnrad.dev/api/280676963885121536' />
 </p>
+
 ---
 
 ### ⏱️ WakaTime Stats
@@ -74,6 +75,7 @@
 <p align="center">
   <img src="https://wakatime.com/share/@896383b6-c21d-4862-8145-207435563b89/5d1d6236-fa4f-47c8-af3f-b3d4b786ba2f.svg" alt="WakaTime Weekly" />
   <img src="https://wakatime.com/share/@896383b6-c21d-4862-8145-207435563b89/6701309f-96d9-453b-8697-36650d8211d0.svg" alt="WakaTime Monthly" />
+  <img src="https://wakatime.com/share/@896383b6-c21d-4862-8145-207435563b89/65e99be1-9eff-40df-8d95-ff978abc714a.svg" alt="WakaTime OS"/>
 </p>
 
 ---
