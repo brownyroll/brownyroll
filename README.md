@@ -64,11 +64,11 @@
 
 📊 **WakaTime stats (last 7 days)**
 
-- **YAML**: 5 hrs 17 mins
-- **Other**: 59 mins
-- **TypeScript**: 53 mins
-- **TSConfig**: 7 mins
-- **Prisma**: 6 mins
+- **YAML**: 6 hrs 1 min
+- **TypeScript**: 1 hr 21 mins
+- **Vue.js**: 54 mins
+- **Other**: 51 mins
+- **CSS**: 38 mins
 <!--END_SECTION:waka-->
 </p>
 
@@ -86,7 +86,7 @@
 
 <p align="center"> 
     <i>
-        ⏰ Last Updated: <!--LAST_UPDATED-->02 August 2025 00:14:55 (UTC+7)<!--END_LAST_UPDATED-->
-        🔄️ Update Count: <!--UPDATE_COUNT-->403<!--END_UPDATE_COUNT-->
+        ⏰ Last Updated: <!--LAST_UPDATED-->02 August 2025 01:17:42 (UTC+7)<!--END_LAST_UPDATED-->
+        🔄️ Update Count: <!--UPDATE_COUNT-->404<!--END_UPDATE_COUNT-->
     </i>
 </p>
