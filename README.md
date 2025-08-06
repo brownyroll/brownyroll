@@ -64,11 +64,11 @@
 
 📊 **WakaTime stats (last 7 days)**
 
-- **YAML**: 13 hrs 14 mins
-- **Other**: 3 hrs 4 mins
-- **JavaScript**: 1 hr 36 mins
+- **YAML**: 12 hrs 59 mins
+- **Other**: 6 hrs 21 mins
+- **JavaScript**: 3 hrs 10 mins
 - **TypeScript**: 1 hr 31 mins
-- **Astro**: 1 hr 11 mins
+- **Astro**: 1 hr 12 mins
 <!--END_SECTION:waka-->
 </p>
 
@@ -86,7 +86,7 @@
 
 <p align="center"> 
     <i>
-        ⏰ Last Updated: <!--LAST_UPDATED-->07 August 2025 00:15:56 (UTC+7)<!--END_LAST_UPDATED-->
-        🔄️ Update Count: <!--UPDATE_COUNT-->514<!--END_UPDATE_COUNT-->
+        ⏰ Last Updated: <!--LAST_UPDATED-->07 August 2025 01:18:23 (UTC+7)<!--END_LAST_UPDATED-->
+        🔄️ Update Count: <!--UPDATE_COUNT-->515<!--END_UPDATE_COUNT-->
     </i>
 </p>
