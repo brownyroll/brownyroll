@@ -33,7 +33,7 @@
 ### 💻 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,vue,php,laravel,dotnet,django,tailwind,bootstrap,express,arduino,mysql,sqlite,mongodb,mariadb,mssql,nginx,docker,git,linux,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,vue,php,laravel,dotnet,django,tailwind,bootstrap,express,arduino,mysql,sqlite,mongodb,nginx,docker,git,linux,figma,postman,astro,bash,bun,cloudflare,discord,discordjs" />
 </p>
 
 ---
