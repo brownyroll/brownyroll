@@ -26,6 +26,6 @@ module.exports = {
   commitMessage: '📊 Update README stats',
   
   // File paths
-  readmePath: 'README.md',
+  readmePath: '../../README.md',
   logPath: '.github/logs/readme.md'
 };

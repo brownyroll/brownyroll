@@ -31,11 +31,9 @@ jobs:
         npm install
     
     - name: Update README
-      run: |
-        cd .github/scripts
-        node update-readme.js
+      run: node .github/scripts/update-readme.js
       env:
-        GITHUB_TOKEN: ${{ secrets.G_TOKEN }}
+        G_TOKEN: ${{ secrets.G_TOKEN }}
     
     - name: Log update
       run: |
