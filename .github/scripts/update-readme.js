@@ -64,18 +64,33 @@ async function fetchWakaTimeData() {
   }
 }
 
-// Generate stats sections
+// Utility function to pad strings
+function padString(str, length, align = 'left') {
+  if (str.length >= length) return str;
+  const padding = ' '.repeat(length - str.length);
+  return align === 'right' ? padding + str : str + padding;
+}
+
+// Generate stats sections with better formatting
 function generateLanguagesSection(languages) {
   if (!languages.length) return '';
   
   const total = languages.reduce((sum, lang) => sum + lang.total_seconds, 0);
+  
+  // Find the longest name for consistent padding
+  const maxNameLength = Math.max(...languages.slice(0, 5).map(lang => lang.name.length));
+  const nameWidth = Math.max(maxNameLength, 12); // Minimum width of 12
+  const timeWidth = 15; // Fixed width for time
   
   return languages.slice(0, 5).map(lang => {
     const percentage = total > 0 ? (lang.total_seconds / total * 100) : 0;
     const progressBar = createProgressBar(percentage);
     const timeText = formatTime(lang.total_seconds);
     
-    return `${lang.name} ${timeText} ${progressBar} ${percentage.toFixed(2)} %`;
+    const paddedName = padString(lang.name, nameWidth);
+    const paddedTime = padString(timeText, timeWidth, 'right');
+    
+    return `${paddedName} ${paddedTime} ${progressBar} ${percentage.toFixed(2)} %`;
   }).join('\n');
 }
 
@@ -84,12 +99,19 @@ function generateEditorsSection(editors) {
   
   const total = editors.reduce((sum, editor) => sum + editor.total_seconds, 0);
   
+  const maxNameLength = Math.max(...editors.slice(0, 3).map(editor => editor.name.length));
+  const nameWidth = Math.max(maxNameLength, 12);
+  const timeWidth = 15;
+  
   return editors.slice(0, 3).map(editor => {
     const percentage = total > 0 ? (editor.total_seconds / total * 100) : 0;
     const progressBar = createProgressBar(percentage);
     const timeText = formatTime(editor.total_seconds);
     
-    return `${editor.name} ${timeText} ${progressBar} ${percentage.toFixed(2)} %`;
+    const paddedName = padString(editor.name, nameWidth);
+    const paddedTime = padString(timeText, timeWidth, 'right');
+    
+    return `${paddedName} ${paddedTime} ${progressBar} ${percentage.toFixed(2)} %`;
   }).join('\n');
 }
 
@@ -98,12 +120,19 @@ function generateOSSection(osData) {
   
   const total = osData.reduce((sum, os) => sum + os.total_seconds, 0);
   
+  const maxNameLength = Math.max(...osData.map(os => os.name.length));
+  const nameWidth = Math.max(maxNameLength, 12);
+  const timeWidth = 15;
+  
   return osData.map(os => {
     const percentage = total > 0 ? (os.total_seconds / total * 100) : 0;
     const progressBar = createProgressBar(percentage);
     const timeText = formatTime(os.total_seconds);
     
-    return `${os.name} ${timeText} ${progressBar} ${percentage.toFixed(2)} %`;
+    const paddedName = padString(os.name, nameWidth);
+    const paddedTime = padString(timeText, timeWidth, 'right');
+    
+    return `${paddedName} ${paddedTime} ${progressBar} ${percentage.toFixed(2)} %`;
   }).join('\n');
 }
 
