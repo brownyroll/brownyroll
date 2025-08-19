@@ -38,4 +38,4 @@ jobs:
     - name: Log update
       run: |
         echo "$(date): README updated" >> .github/logs/readme.md
-        name: Update README Stats Brownyroll
+        echo "✅ Update complete"
