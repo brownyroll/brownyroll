@@ -58,11 +58,12 @@
 
 ---
 
-### ⏱️ WakaTime Stats
+### 📊 Coding Activity
 
 <p align="center">
-📊 Coding Activity
+
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 </p>
 
