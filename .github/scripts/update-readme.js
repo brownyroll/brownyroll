@@ -182,9 +182,9 @@ function insertTimestamp(content) {
     
     // Git operations
     const exec = require("child_process").execSync;
-    exec("git config user.name github-actions");
-    exec("git config user.email github-actions@github.com");
-    exec("git remote set-url origin https://x-access-token:" + process.env.GITHUB_TOKEN + "@github.com/brownyroll/brownyroll.git");
+    exec("git config user.name bbwny");
+    exec("git config user.email bbwny@users.noreply.github.com");
+    exec("git remote set-url origin https://x-access-token:" + process.env.G_TOKEN + "@github.com/brownyroll/brownyroll.git");
     exec("git add README.md");
     exec('git commit -m "📊 Update README stats" || echo "No changes to commit"');
     exec("git push");
