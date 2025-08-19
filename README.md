@@ -11,7 +11,7 @@
 
 ### 🔧 About Me
 
-- 🔭 Working on [**Brownyrollz**](https://github.com/Brownyrollz)
+- 🔭 Working on [**Brownyrollz**](https://github.com/Brownyrollz), [**BrainrotDev**](https://github.com/brainrotdev), Full Time at [**Terabyteplus TCG3 (Cloud Computer, Cloud Operation Officer, etc.)**](https://tcloud.in.th)
 - 🌐 Portfolio: [brownyrollz.in.th/Portfolio](https://Brownyrollz.in.th/Portfolio)
 - 📄 Resume: [brownyrollz.in.th/Resume](https://Brownyrollz.in.th/Resume)
 - 📫 Email: **me@brownyrollz.in.th**
@@ -32,7 +32,9 @@
 
 ### 💻 Languages & Tools
 
-<p align="left">
+<p align="center">
+  <img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D34055">
+  <br/>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,vue,php,laravel,dotnet,django,tailwind,bootstrap,express,arduino,mysql,sqlite,mongodb,nginx,docker,git,linux,figma,postman,astro,bash,bun,cloudflare,discord,discordjs" />
 </p>
 
@@ -59,23 +61,9 @@
 ### ⏱️ WakaTime Stats
 
 <p align="center">
-    <!-- WakaTime stats section -->
-    <!--START_SECTION:waka-->
-
-📊 **WakaTime stats (last 7 days)**
-
-- **Other**: 12 hrs 16 mins
-- **YAML**: 9 hrs 38 mins
-- **TypeScript**: 7 hrs 50 mins
-- **Vue.js**: 5 hrs 40 mins
-- **Skript**: 3 hrs 12 mins
+📊 Coding Activity
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-</p>
-
-<p align="center">
-  <img src="https://wakatime.com/share/@896383b6-c21d-4862-8145-207435563b89/5d1d6236-fa4f-47c8-af3f-b3d4b786ba2f.svg" alt="WakaTime Weekly" />
-  <img src="https://wakatime.com/share/@896383b6-c21d-4862-8145-207435563b89/6701309f-96d9-453b-8697-36650d8211d0.svg" alt="WakaTime Monthly" />
-  <img src="https://wakatime.com/share/@896383b6-c21d-4862-8145-207435563b89/65e99be1-9eff-40df-8d95-ff978abc714a.svg" alt="WakaTime OS"/>
 </p>
 
 ---
@@ -84,6 +72,7 @@
   <img src="https://komarev.com/ghpvc/?username=brownyroll&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+<!-- Metadata -->
 <p align="center"> 
     <i>
         ⏰ Last Updated: <!--LAST_UPDATED-->20 August 2025 00:10:42 (UTC+7)<!--END_LAST_UPDATED-->
