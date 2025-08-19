@@ -22,7 +22,7 @@ jobs:
       uses: actions/setup-node@v4
       with:
         node-version: '18'
-        cache: 'npm'
+        cache: 'npm'2
         cache-dependency-path: '.github/scripts/package.json'
     
     - name: Install dependencies
@@ -35,7 +35,7 @@ jobs:
         cd .github/scripts
         node update-readme.js
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.G_TOKEN }}
     
     - name: Log update
       run: |
