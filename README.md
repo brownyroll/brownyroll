@@ -91,10 +91,8 @@
 <!-- Metadata -->
 <p align="center"> 
     <i>
-
         ⏰ Timezone : Asia/Bangkok
         ⏰ Last Updated: <!--LAST_UPDATED-->20 August 2025 02:29:11 (UTC+7)<!--END_LAST_UPDATED-->
         🔄️ Update Count: <!--UPDATE_COUNT-->821<!--END_UPDATE_COUNT-->
-
     </i>
 </p>
