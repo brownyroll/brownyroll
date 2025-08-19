@@ -17,8 +17,7 @@ const config = {
   lang: "html,css,js,ts,react,nextjs,nodejs,vue,php,laravel,dotnet,django,tailwind,bootstrap,express,arduino,mysql,sqlite,mongodb,nginx,docker,git,linux,figma,postman,astro,bash,bun,cloudflare,discord,discordjs"
 };
 
-
-const readmePath = path.join(__dirname, "../../README.md");
+const readmePath = "../../README.md";
 
 // Create progress bar
 function createProgressBar(percentage, length = 25) {
