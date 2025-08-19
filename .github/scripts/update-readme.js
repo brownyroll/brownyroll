@@ -2,6 +2,7 @@ const fs = require("fs");
 const axios = require("axios");
 const dayjs = require("dayjs");
 const path = require("path");
+const { start } = require("repl");
 require('dayjs/locale/th');
 
 // Load config
@@ -137,12 +138,12 @@ function generateOSSection(osData) {
 }
 
 // Generate complete WakaTime stats
-async function generateWakaTimeStats() {
+async function generateWakalanguagesStats() {
   const data = await fetchWakaTimeData();
   
   const languagesSection = generateLanguagesSection(data.languages);
-  const editorsSection = generateEditorsSection(data.editors);
-  const osSection = generateOSSection(data.os);
+
+  // const osSection = generateOSSection(data.os);
   
   let stats = '';
   
@@ -150,15 +151,42 @@ async function generateWakaTimeStats() {
     stats += `💬 Programming Languages:\n${languagesSection}\n`;
   }
   
+  // if (editorsSection) {
+  //   stats += `\n🔥 Editors:\n${editorsSection}\n`;
+  // }
+  
+  // if (osSection) {
+  //   stats += `\n💻 Operating System:\n${osSection}`;
+  // }
+  
+  return stats;
+}
+
+async function generateWakaeditor() {
+  const data = await fetchWakaTimeData();
+
+  const editorsSection = generateEditorsSection(data.editors);
+  
+  let stats = '';
+
   if (editorsSection) {
     stats += `\n🔥 Editors:\n${editorsSection}\n`;
   }
+  return start;
+}
+
+async function generateWakaOS() {
+  const data = await fetchWakaTimeData();
+
+  const osSection = generateOSSection(data.os);
+
+  let stats = '';
   
-  if (osSection) {
+   if (osSection) {
     stats += `\n💻 Operating System:\n${osSection}`;
   }
-  
-  return stats;
+
+  return start;
 }
 
 // Generate tech stack section
@@ -192,15 +220,28 @@ function insertTimestamp(content) {
     let readme = fs.readFileSync(readmePath, "utf8");
     
     // Generate WakaTime stats
-    const wakaStats = await generateWakaTimeStats();
+    const wakaLang = await generateWakalanguagesStats();
+    const wakaEditor = await generateWakaeditor();
+    const wakaOS = await generateWakaOS();
     
     // Generate tech stack
     const techStack = generateTechStack();
+
     
     // Update sections
     readme = readme.replace(
       /<!--START_SECTION:waka-->[\s\S]*<!--END_SECTION:waka-->/,
-      `<!--START_SECTION:waka-->\n\`\`\`text\n${wakaStats}\n\`\`\`\n<!--END_SECTION:waka-->`
+      `<!--START_SECTION:waka-->\n\`\`\`text\n${wakaLang}\n\`\`\`\n<!--END_SECTION:waka-->`
+    );
+
+    readme = readme.replace(
+      /<!--START_SECTION:editors-->[\s\S]*<!--END_SECTION:editors-->/,
+      `<!--START_SECTION:editors-->\n\`\`\`text\n${wakaEditor}\n\`\`\`\n<!--END_SECTION:editors-->`
+    );
+
+    readme = readme.replace(
+      /<!--START_SECTION:os-->[\s\S]*<!--END_SECTION:os-->/,
+      `<!--START_SECTION:os-->\n\`\`\`text\n${wakaOS}\n\`\`\`\n<!--os:waka-->`
     );
     
     readme = readme.replace(

@@ -59,13 +59,23 @@
 
 ---
 
-### 📊 Coding Activity
+
 
 <p align="center">
+### 📊 Coding Activity
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
+
+### 📊 Editors Activity
+
+<!--START_SECTION:editors-->
+<!--END_SECTION:editors-->
+
+### 📊  Operating System Activity
+
+<!--START_SECTION:os-->
+<!--END_SECTION:os-->
 </p>
 
 ---
