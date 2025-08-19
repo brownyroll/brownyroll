@@ -82,7 +82,7 @@ function generateLanguagesSection(languages) {
   const nameWidth = Math.max(maxNameLength, 12); // Minimum width of 12
   const timeWidth = 15; // Fixed width for time
   
-  return languages.slice(0, 5).map(lang => {
+  return languages.slice(0, 99).map(lang => {
     const percentage = total > 0 ? (lang.total_seconds / total * 100) : 0;
     const progressBar = createProgressBar(percentage);
     const timeText = formatTime(lang.total_seconds);
@@ -103,7 +103,7 @@ function generateEditorsSection(editors) {
   const nameWidth = Math.max(maxNameLength, 12);
   const timeWidth = 15;
   
-  return editors.slice(0, 3).map(editor => {
+  return editors.slice(0, 99).map(editor => {
     const percentage = total > 0 ? (editor.total_seconds / total * 100) : 0;
     const progressBar = createProgressBar(percentage);
     const timeText = formatTime(editor.total_seconds);

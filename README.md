@@ -35,7 +35,8 @@
 <p align="center">
   <img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D34055">
   <br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,vue,php,laravel,dotnet,django,tailwind,bootstrap,express,arduino,mysql,sqlite,mongodb,nginx,docker,git,linux,figma,postman,astro,bash,bun,cloudflare,discord,discordjs" />
+  <!--START_SECTION:tech-->
+  <!--END_SECTION:tech-->
 </p>
 
 ---
