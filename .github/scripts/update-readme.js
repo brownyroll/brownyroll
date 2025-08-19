@@ -143,8 +143,6 @@ async function generateWakalanguagesStats() {
   
   const languagesSection = generateLanguagesSection(data.languages);
 
-  // const osSection = generateOSSection(data.os);
-  
   let stats = '';
   
   if (languagesSection) {
@@ -172,7 +170,7 @@ async function generateWakaeditor() {
   if (editorsSection) {
     stats += `\n🔥 Editors:\n${editorsSection}\n`;
   }
-  return start;
+  return stats;
 }
 
 async function generateWakaOS() {
@@ -182,11 +180,11 @@ async function generateWakaOS() {
 
   let stats = '';
   
-   if (osSection) {
+  if (osSection) {
     stats += `\n💻 Operating System:\n${osSection}`;
   }
 
-  return start;
+  return stats;
 }
 
 // Generate tech stack section
