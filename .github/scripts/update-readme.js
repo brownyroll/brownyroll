@@ -168,7 +168,7 @@ async function generateWakaeditor() {
   let stats = '';
 
   if (editorsSection) {
-    stats += `\n🔥 Editors:\n${editorsSection}\n`;
+    stats += `🔥 Editors:\n${editorsSection}\n`;
   }
   return stats;
 }
@@ -181,7 +181,7 @@ async function generateWakaOS() {
   let stats = '';
   
   if (osSection) {
-    stats += `\n💻 Operating System:\n${osSection}`;
+    stats += `💻 Operating System:\n${osSection}`;
   }
 
   return stats;

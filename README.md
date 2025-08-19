@@ -71,7 +71,7 @@
 <!--START_SECTION:editors-->
 <!--END_SECTION:editors-->
 
-### 📊  Operating System Activity
+### 💻 Operating System Activity
 
 <!--START_SECTION:os-->
 <!--END_SECTION:os-->
