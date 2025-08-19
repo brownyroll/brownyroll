@@ -239,7 +239,7 @@ function insertTimestamp(content) {
 
     readme = readme.replace(
       /<!--START_SECTION:os-->[\s\S]*<!--END_SECTION:os-->/,
-      `<!--START_SECTION:os-->\n\`\`\`text\n${wakaOS}\n\`\`\`\n<!--os:waka-->`
+      `<!--START_SECTION:os-->\n\`\`\`text\n${wakaOS}\n\`\`\`\n<!--END_SECTION:os-->`
     );
     
     readme = readme.replace(
