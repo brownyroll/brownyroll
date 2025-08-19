@@ -33,7 +33,7 @@ jobs:
     - name: Update README
       run: node .github/scripts/update-readme.js
       env:
-        G_TOKEN: ${{ secrets.G_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
     
     - name: Log update
       run: |
