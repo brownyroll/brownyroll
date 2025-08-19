@@ -15,7 +15,6 @@
 - 🌐 Portfolio: [brownyrollz.in.th/Portfolio](https://Brownyrollz.in.th/Portfolio)
 - 📄 Resume: [brownyrollz.in.th/Resume](https://Brownyrollz.in.th/Resume)
 - 📫 Email: **me@brownyrollz.in.th**
-
 ---
 
 ### 🌐 Connect with Me
@@ -86,6 +85,9 @@
 <!-- Metadata -->
 <p align="center"> 
     <i>
+      ```text
+        ⏰  Timezone : Asia/Bangkok
+      ```
         ⏰ Last Updated: <!--LAST_UPDATED-->20 August 2025 02:22:42 (UTC+7)<!--END_LAST_UPDATED-->
         🔄️ Update Count: <!--UPDATE_COUNT-->820<!--END_UPDATE_COUNT-->
     </i>
