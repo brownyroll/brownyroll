@@ -1,32 +1,41 @@
-name: Update README Stats Brownyroll
+
+name: Update README Stats
 permissions:
   contents: write
 
 on:
   schedule:
-    - cron: "0 * * * *"
-  workflow_dispatch:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch: 
   push:
     branches: [ main ]
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-
+    
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: 18
-
-      - name: Install Packages
-        run: npm install axios dayjs
-
-      - name: Update README
-        run: node .github/scripts/update-readme.js
-        env:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.G_TOKEN }}
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+        cache-dependency-path: '.github/scripts/package.json'
+    
+    - name: Install dependencies
+      run: |
+        cd .github/scripts
+        npm install
+    
+    - name: Update README
+      run: node .github/scripts/update-readme.js
+      env:
+        GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
+    
+    - name: Log update
+      run: |
+        echo "$(date): README updated" >> .github/logs/readme.md
+        echo "✅ Update complete"

@@ -1,64 +1,271 @@
 const fs = require("fs");
 const axios = require("axios");
 const dayjs = require("dayjs");
+const path = require("path");
+const { start } = require("repl");
+require('dayjs/locale/th');
 
-const readmePath = "README.md";
+// Load config
+const config = {
+  timezone: 'Asia/Bangkok',
+  utc: '+7',
+  waka_activity: 'https://wakatime.com/share/@896383b6-c21d-4862-8145-207435563b89/e0758256-17da-4c6d-bcec-4d87a784e127.json',
+  waka_languages: 'https://wakatime.com/share/@896383b6-c21d-4862-8145-207435563b89/8e3156ee-acfd-41a7-9207-52919551d3ca.json',
+  waka_useeditor: 'https://wakatime.com/share/@896383b6-c21d-4862-8145-207435563b89/13b15f50-5984-4c14-a42e-587c46ae57a2.json',
+  waka_os: 'https://wakatime.com/share/@896383b6-c21d-4862-8145-207435563b89/40444d97-4a40-47ce-8cc1-561642a6baca.json',
+  empty: "░",
+  use: "█",
+  techStack: 'https://skillicons.dev/icons?i=',
+  lang: "html,css,js,ts,react,nextjs,nodejs,vue,php,laravel,dotnet,django,tailwind,bootstrap,express,arduino,mysql,sqlite,mongodb,nginx,docker,git,linux,figma,postman,astro,bash,bun,cloudflare,discord,discordjs"
+};
 
-// Load README
-let readme = fs.readFileSync(readmePath, "utf8");
+const readmePath = path.resolve(__dirname, "../../README.md");
 
-async function fetchWakaTime() {
-  const apiKey = process.env.WAKATIME_API_KEY;
-  const res = await axios.get(`https://wakatime.com/api/v1/users/current/stats/last_7_days`, {
-    headers: { Authorization: `Basic ${Buffer.from(apiKey).toString("base64")}` }
-  });
+if (!fs.existsSync(readmePath)) {
+  throw new Error(`README.md not found at ${readmePath}`);
+}
 
-  const data = res.data.data.languages
-    .slice(0, 5)
-    .map((lang) => `- **${lang.name}**: ${lang.text}`)
-    .join("\n");
 
-  return `\n\n📊 **WakaTime stats (last 7 days)**\n\n${data}`;
+// Create progress bar
+function createProgressBar(percentage, length = 25) {
+  const filled = Math.round((percentage / 100) * length);
+  const empty = length - filled;
+  return config.use.repeat(filled) + config.empty.repeat(empty);
+}
+
+// Format time
+function formatTime(totalSeconds) {
+  const hours = Math.floor(totalSeconds / 3600);
+  const minutes = Math.floor((totalSeconds % 3600) / 60);
+  
+  if (hours > 0) {
+    return `${hours} hr${hours > 1 ? 's' : ''} ${minutes} min${minutes !== 1 ? 's' : ''}`;
+  } else {
+    return `${minutes} min${minutes !== 1 ? 's' : ''}`;
+  }
+}
+
+// Fetch WakaTime data
+async function fetchWakaTimeData() {
+  try {
+    const [languagesRes, editorsRes, osRes] = await Promise.all([
+      axios.get(config.waka_languages),
+      axios.get(config.waka_useeditor),
+      axios.get(config.waka_os)
+    ]);
+
+    return {
+      languages: languagesRes.data.data || [],
+      editors: editorsRes.data.data || [],
+      os: osRes.data.data || []
+    };
+  } catch (error) {
+    console.error('Error fetching WakaTime data:', error);
+    return { languages: [], editors: [], os: [] };
+  }
+}
+
+// Utility function to pad strings
+function padString(str, length, align = 'left') {
+  if (str.length >= length) return str;
+  const padding = ' '.repeat(length - str.length);
+  return align === 'right' ? padding + str : str + padding;
+}
+
+// Generate stats sections with better formatting
+function generateLanguagesSection(languages) {
+  if (!languages.length) return '';
+  
+  const total = languages.reduce((sum, lang) => sum + lang.total_seconds, 0);
+  
+  // Find the longest name for consistent padding
+  const maxNameLength = Math.max(...languages.slice(0, 5).map(lang => lang.name.length));
+  const nameWidth = Math.max(maxNameLength, 12); // Minimum width of 12
+  const timeWidth = 15; // Fixed width for time
+  
+  return languages.slice(0, 99).map(lang => {
+    const percentage = total > 0 ? (lang.total_seconds / total * 100) : 0;
+    const progressBar = createProgressBar(percentage);
+    const timeText = formatTime(lang.total_seconds);
+    
+    const paddedName = padString(lang.name, nameWidth);
+    const paddedTime = padString(timeText, timeWidth, 'right');
+    
+    return `${paddedName} ${paddedTime} ${progressBar} ${percentage.toFixed(2)} %`;
+  }).join('\n');
+}
+
+function generateEditorsSection(editors) {
+  if (!editors.length) return '';
+  
+  const total = editors.reduce((sum, editor) => sum + editor.total_seconds, 0);
+  
+  const maxNameLength = Math.max(...editors.slice(0, 3).map(editor => editor.name.length));
+  const nameWidth = Math.max(maxNameLength, 12);
+  const timeWidth = 15;
+  
+  return editors.slice(0, 99).map(editor => {
+    const percentage = total > 0 ? (editor.total_seconds / total * 100) : 0;
+    const progressBar = createProgressBar(percentage);
+    const timeText = formatTime(editor.total_seconds);
+    
+    const paddedName = padString(editor.name, nameWidth);
+    const paddedTime = padString(timeText, timeWidth, 'right');
+    
+    return `${paddedName} ${paddedTime} ${progressBar} ${percentage.toFixed(2)} %`;
+  }).join('\n');
+}
+
+function generateOSSection(osData) {
+  if (!osData.length) return '';
+  
+  const total = osData.reduce((sum, os) => sum + os.total_seconds, 0);
+  
+  const maxNameLength = Math.max(...osData.map(os => os.name.length));
+  const nameWidth = Math.max(maxNameLength, 12);
+  const timeWidth = 15;
+  
+  return osData.map(os => {
+    const percentage = total > 0 ? (os.total_seconds / total * 100) : 0;
+    const progressBar = createProgressBar(percentage);
+    const timeText = formatTime(os.total_seconds);
+    
+    const paddedName = padString(os.name, nameWidth);
+    const paddedTime = padString(timeText, timeWidth, 'right');
+    
+    return `${paddedName} ${paddedTime} ${progressBar} ${percentage.toFixed(2)} %`;
+  }).join('\n');
+}
+
+// Generate complete WakaTime stats
+async function generateWakalanguagesStats() {
+  const data = await fetchWakaTimeData();
+  
+  const languagesSection = generateLanguagesSection(data.languages);
+
+  let stats = '';
+  
+  if (languagesSection) {
+    stats += `💬 Programming Languages:\n${languagesSection}\n`;
+  }
+  
+  // if (editorsSection) {
+  //   stats += `\n🔥 Editors:\n${editorsSection}\n`;
+  // }
+  
+  // if (osSection) {
+  //   stats += `\n💻 Operating System:\n${osSection}`;
+  // }
+  
+  return stats;
+}
+
+async function generateWakaeditor() {
+  const data = await fetchWakaTimeData();
+
+  const editorsSection = generateEditorsSection(data.editors);
+  
+  let stats = '';
+
+  if (editorsSection) {
+    stats += `🔥 Editors:\n${editorsSection}\n`;
+  }
+  return stats;
+}
+
+async function generateWakaOS() {
+  const data = await fetchWakaTimeData();
+
+  const osSection = generateOSSection(data.os);
+
+  let stats = '';
+  
+  if (osSection) {
+    stats += `💻 Operating System:\n${osSection}`;
+  }
+
+  return stats;
+}
+
+// Generate tech stack section
+function generateTechStack() {
+  const techStackUrl = `${config.techStack}${config.lang}`;
+  return `\n<p align="center">\n  <img src="${techStackUrl}" alt="Tech Stack" />\n</p>`;
 }
 
 function incrementUpdateCount(content) {
   const match = content.match(/<!--UPDATE_COUNT-->(\d+)<!--END_UPDATE_COUNT-->/);
   const currentCount = match ? parseInt(match[1]) : 0;
-  return content.replace(/<!--UPDATE_COUNT-->.*<!--END_UPDATE_COUNT-->/, `<!--UPDATE_COUNT-->${currentCount + 1}<!--END_UPDATE_COUNT-->`);
+  return content.replace(
+    /<!--UPDATE_COUNT-->.*<!--END_UPDATE_COUNT-->/,
+    `<!--UPDATE_COUNT-->${currentCount + 1}<!--END_UPDATE_COUNT-->`
+  );
 }
 
-// function insertTimestamp(content) {
-//   const timestamp = dayjs().utcOffset(7).format("DD MMMM YYYY HH:mm:ss");
-//   return content.replace(/<!--LAST_UPDATED-->.*<!--END_LAST_UPDATED-->/, `<!--LAST_UPDATED-->${timestamp}<!--END_LAST_UPDATED-->`);
-// }
 function insertTimestamp(content) {
   const now = new Date();
   const thaiTime = new Date(now.getTime() + (7 * 60 * 60 * 1000));
   const timestamp = dayjs(thaiTime).format("DD MMMM YYYY HH:mm:ss");
   return content.replace(
-    /<!--LAST_UPDATED-->.*<!--END_LAST_UPDATED-->/, 
-    `<!--LAST_UPDATED-->${timestamp} (UTC+7)<!--END_LAST_UPDATED-->`
+    /<!--LAST_UPDATED-->.*<!--END_LAST_UPDATED-->/,
+    `<!--LAST_UPDATED-->${timestamp} (UTC${config.utc})<!--END_LAST_UPDATED-->`
   );
 }
 
+// Main function
 (async () => {
-  const waka = await fetchWakaTime();
+  try {
+    let readme = fs.readFileSync(readmePath, "utf8");
+    
+    // Generate WakaTime stats
+    const wakaLang = await generateWakalanguagesStats();
+    const wakaEditor = await generateWakaeditor();
+    const wakaOS = await generateWakaOS();
+    
+    // Generate tech stack
+    const techStack = generateTechStack();
 
-  readme = readme.replace(
-    /<!--START_SECTION:waka-->[\s\S]*<!--END_SECTION:waka-->/,
-    `<!--START_SECTION:waka-->${waka}\n<!--END_SECTION:waka-->`
-  );
+    
+    // Update sections
+    readme = readme.replace(
+      /<!--START_SECTION:waka-->[\s\S]*<!--END_SECTION:waka-->/,
+      `<!--START_SECTION:waka-->\n\`\`\`text\n${wakaLang}\n\`\`\`\n<!--END_SECTION:waka-->`
+    );
 
-  readme = incrementUpdateCount(readme);
-  readme = insertTimestamp(readme);
+    readme = readme.replace(
+      /<!--START_SECTION:editors-->[\s\S]*<!--END_SECTION:editors-->/,
+      `<!--START_SECTION:editors-->\n\`\`\`text\n${wakaEditor}\n\`\`\`\n<!--END_SECTION:editors-->`
+    );
 
-  fs.writeFileSync(readmePath, readme);
-
-  const exec = require("child_process").execSync;
-  exec("git config user.name github-actions");
-  exec("git config user.email github-actions@github.com");
-  exec("git remote set-url origin https://x-access-token:" + process.env.GITHUB_TOKEN + "@github.com/brownyroll/brownyroll.git");
-  exec("git add README.md");
-  exec('git commit -m "Update README stats" || echo "No changes to commit"');
-  exec("git push");
+    readme = readme.replace(
+      /<!--START_SECTION:os-->[\s\S]*<!--END_SECTION:os-->/,
+      `<!--START_SECTION:os-->\n\`\`\`text\n${wakaOS}\n\`\`\`\n<!--os:waka-->`
+    );
+    
+    readme = readme.replace(
+      /<!--START_SECTION:tech-->[\s\S]*<!--END_SECTION:tech-->/,
+      `<!--START_SECTION:tech-->${techStack}\n<!--END_SECTION:tech-->`
+    );
+    
+    // Update metadata
+    readme = incrementUpdateCount(readme);
+    readme = insertTimestamp(readme);
+    
+    // Write updated README
+    fs.writeFileSync(readmePath, readme);
+    
+    // Git operations
+    const exec = require("child_process").execSync;
+    exec("git config user.name bbwny");
+    exec("git config user.email bbwny@users.noreply.github.com");
+    exec("git remote set-url origin https://x-access-token:" + process.env.GITHUB_TOKEN + "@github.com/brownyrollz-studio/brownyroll.git");
+    exec("git add README.md");
+    exec('git commit -m "📊 Update README stats" || echo "No changes to commit"');
+    exec("git push");
+    
+    console.log('✅ README updated successfully!');
+  } catch (error) {
+    console.error('❌ Error updating README:', error);
+    process.exit(1);
+  }
 })();
