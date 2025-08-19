@@ -17,7 +17,12 @@ const config = {
   lang: "html,css,js,ts,react,nextjs,nodejs,vue,php,laravel,dotnet,django,tailwind,bootstrap,express,arduino,mysql,sqlite,mongodb,nginx,docker,git,linux,figma,postman,astro,bash,bun,cloudflare,discord,discordjs"
 };
 
-const readmePath = "../../README.md";
+const readmePath = path.resolve(__dirname, "../../README.md");
+
+if (!fs.existsSync(readmePath)) {
+  throw new Error(`README.md not found at ${readmePath}`);
+}
+
 
 // Create progress bar
 function createProgressBar(percentage, length = 25) {
