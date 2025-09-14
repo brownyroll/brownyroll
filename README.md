@@ -142,9 +142,9 @@ IntelliJIDEACommunityEdition         13 mins ░░░░░░░░░░░�
 <!--START_SECTION:os-->
 ```text
 💻 Operating System:
-Windows      227 hrs 13 mins █████████████████████░░░░ 82.92 %
-Linux          46 hrs 0 mins ████░░░░░░░░░░░░░░░░░░░░░ 16.79 %
-Mac                  48 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.30 %
+Windows      228 hrs 28 mins █████████████████████░░░░ 82.46 %
+Linux         47 hrs 47 mins ████░░░░░░░░░░░░░░░░░░░░░ 17.25 %
+Mac                  48 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.29 %
 ```
 <!--END_SECTION:os-->
 </p>
@@ -159,7 +159,7 @@ Mac                  48 mins ░░░░░░░░░░░░░░░░░
 <p align="center"> 
     <i>
         ⏰ Timezone : Asia/Bangkok
-        ⏰ Last Updated: <!--LAST_UPDATED-->14 September 2025 19:34:05 (UTC+7)<!--END_LAST_UPDATED-->
-        🔄️ Update Count: <!--UPDATE_COUNT-->931<!--END_UPDATE_COUNT-->
+        ⏰ Last Updated: <!--LAST_UPDATED-->15 September 2025 01:23:18 (UTC+7)<!--END_LAST_UPDATED-->
+        🔄️ Update Count: <!--UPDATE_COUNT-->932<!--END_UPDATE_COUNT-->
     </i>
 </p>
