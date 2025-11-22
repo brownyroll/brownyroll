@@ -157,8 +157,8 @@ MicrosoftTeams                   0 mins ░░░░░░░░░░░░░�
 <!--START_SECTION:os-->
 ```text
 💻 Operating System:
-Windows      455 hrs 19 mins ██████████████████████░░░ 89.20 %
-Linux         54 hrs 19 mins ███░░░░░░░░░░░░░░░░░░░░░░ 10.64 %
+Windows        459 hrs 1 min ██████████████████████░░░ 89.28 %
+Linux         54 hrs 19 mins ███░░░░░░░░░░░░░░░░░░░░░░ 10.57 %
 Mac                  48 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.16 %
 ```
 <!--END_SECTION:os-->
@@ -174,7 +174,7 @@ Mac                  48 mins ░░░░░░░░░░░░░░░░░
 <p align="center"> 
     <i>
         ⏰ Timezone : Asia/Bangkok
-        ⏰ Last Updated: <!--LAST_UPDATED-->22 November 2025 19:36:17 (UTC+7)<!--END_LAST_UPDATED-->
-        🔄️ Update Count: <!--UPDATE_COUNT-->1207<!--END_UPDATE_COUNT-->
+        ⏰ Last Updated: <!--LAST_UPDATED-->23 November 2025 01:26:58 (UTC+7)<!--END_LAST_UPDATED-->
+        🔄️ Update Count: <!--UPDATE_COUNT-->1208<!--END_UPDATE_COUNT-->
     </i>
 </p>
