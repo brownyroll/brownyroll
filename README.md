@@ -161,8 +161,8 @@ pgAdmin4                         0 mins ░░░░░░░░░░░░░�
 <!--START_SECTION:os-->
 ```text
 💻 Operating System:
-Windows       531 hrs 8 mins ███████████████████████░░ 90.60 %
-Linux         54 hrs 19 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 9.27 %
+Windows      533 hrs 38 mins ███████████████████████░░ 90.64 %
+Linux         54 hrs 19 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 9.23 %
 Mac                  48 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.14 %
 ```
 <!--END_SECTION:os-->
@@ -178,7 +178,7 @@ Mac                  48 mins ░░░░░░░░░░░░░░░░░
 <p align="center"> 
     <i>
         ⏰ Timezone : Asia/Bangkok
-        ⏰ Last Updated: <!--LAST_UPDATED-->17 December 2025 19:46:21 (UTC+7)<!--END_LAST_UPDATED-->
-        🔄️ Update Count: <!--UPDATE_COUNT-->1307<!--END_UPDATE_COUNT-->
+        ⏰ Last Updated: <!--LAST_UPDATED-->18 December 2025 01:33:40 (UTC+7)<!--END_LAST_UPDATED-->
+        🔄️ Update Count: <!--UPDATE_COUNT-->1308<!--END_UPDATE_COUNT-->
     </i>
 </p>
