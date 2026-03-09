@@ -69,14 +69,14 @@
 <!--START_SECTION:waka-->
 ```text
 💬 Programming Languages:
-Other        321 hrs 42 mins ███████████░░░░░░░░░░░░░░ 44.60 %
-TypeScript   156 hrs 56 mins █████░░░░░░░░░░░░░░░░░░░░ 21.76 %
+Other        321 hrs 53 mins ███████████░░░░░░░░░░░░░░ 44.62 %
+TypeScript   156 hrs 56 mins █████░░░░░░░░░░░░░░░░░░░░ 21.75 %
 YAML          59 hrs 27 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 8.24 %
 JavaScript    26 hrs 32 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.68 %
 PHP           25 hrs 51 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.59 %
 Markdown      21 hrs 28 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.98 %
 Skript        20 hrs 19 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.82 %
-Vue.js        11 hrs 47 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.64 %
+Vue.js        11 hrs 47 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.63 %
 Astro         11 hrs 27 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.59 %
 Bash           8 hrs 59 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.25 %
 JSON           8 hrs 35 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.19 %
@@ -127,13 +127,13 @@ git ignore            0 mins ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:editors-->
 ```text
 🔥 Editors:
-VS Code                 194 hrs 39 mins ███████░░░░░░░░░░░░░░░░░░ 26.99 %
-Zed                     188 hrs 49 mins ███████░░░░░░░░░░░░░░░░░░ 26.18 %
-RemoteDesktopConnection  89 hrs 11 mins ███░░░░░░░░░░░░░░░░░░░░░░ 12.37 %
+VS Code                 194 hrs 39 mins ███████░░░░░░░░░░░░░░░░░░ 26.98 %
+Zed                     188 hrs 49 mins ███████░░░░░░░░░░░░░░░░░░ 26.17 %
+RemoteDesktopConnection  89 hrs 11 mins ███░░░░░░░░░░░░░░░░░░░░░░ 12.36 %
 LINE                      73 hrs 3 mins ███░░░░░░░░░░░░░░░░░░░░░░ 10.13 %
-MobaXterm                51 hrs 45 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.18 %
+MobaXterm                51 hrs 45 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.17 %
 Cursor                   31 hrs 22 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 4.35 %
-AnyDesk                  18 hrs 10 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.52 %
+AnyDesk                  18 hrs 21 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.54 %
 NavicatPremium           15 hrs 47 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.19 %
 MicrosoftOutlook          11 hrs 6 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.54 %
 WindowsTerminalHost       11 hrs 6 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.54 %
@@ -185,7 +185,7 @@ Mac             1 hr 30 mins ░░░░░░░░░░░░░░░░░
 <p align="center"> 
     <i>
         ⏰ Timezone : Asia/Bangkok
-        ⏰ Last Updated: <!--LAST_UPDATED-->09 March 2026 01:35:22 (UTC+7)<!--END_LAST_UPDATED-->
-        🔄️ Update Count: <!--UPDATE_COUNT-->1632<!--END_UPDATE_COUNT-->
+        ⏰ Last Updated: <!--LAST_UPDATED-->09 March 2026 09:11:32 (UTC+7)<!--END_LAST_UPDATED-->
+        🔄️ Update Count: <!--UPDATE_COUNT-->1633<!--END_UPDATE_COUNT-->
     </i>
 </p>
