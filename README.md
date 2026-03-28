@@ -69,7 +69,7 @@
 <!--START_SECTION:waka-->
 ```text
 💬 Programming Languages:
-Other        327 hrs 43 mins ███████████░░░░░░░░░░░░░░ 44.69 %
+Other        327 hrs 47 mins ███████████░░░░░░░░░░░░░░ 44.69 %
 TypeScript   156 hrs 56 mins █████░░░░░░░░░░░░░░░░░░░░ 21.40 %
 YAML           60 hrs 0 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 8.18 %
 JavaScript    26 hrs 32 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.62 %
@@ -129,13 +129,13 @@ git ignore            0 mins ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:editors-->
 ```text
 🔥 Editors:
-Zed                     195 hrs 42 mins ███████░░░░░░░░░░░░░░░░░░ 26.69 %
+Zed                     195 hrs 42 mins ███████░░░░░░░░░░░░░░░░░░ 26.68 %
 VS Code                 194 hrs 39 mins ███████░░░░░░░░░░░░░░░░░░ 26.54 %
 RemoteDesktopConnection  90 hrs 25 mins ███░░░░░░░░░░░░░░░░░░░░░░ 12.33 %
 LINE                      73 hrs 3 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 9.96 %
 MobaXterm                51 hrs 45 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.06 %
 Cursor                   31 hrs 22 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 4.28 %
-AnyDesk                  18 hrs 21 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.50 %
+AnyDesk                  18 hrs 25 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.51 %
 NavicatPremium            17 hrs 2 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.32 %
 MicrosoftOutlook          11 hrs 6 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.51 %
 WindowsTerminalHost       11 hrs 6 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.51 %
@@ -187,7 +187,7 @@ Mac             1 hr 30 mins ░░░░░░░░░░░░░░░░░
 <p align="center"> 
     <i>
         ⏰ Timezone : Asia/Bangkok
-        ⏰ Last Updated: <!--LAST_UPDATED-->28 March 2026 01:56:41 (UTC+7)<!--END_LAST_UPDATED-->
-        🔄️ Update Count: <!--UPDATE_COUNT-->1708<!--END_UPDATE_COUNT-->
+        ⏰ Last Updated: <!--LAST_UPDATED-->28 March 2026 09:12:04 (UTC+7)<!--END_LAST_UPDATED-->
+        🔄️ Update Count: <!--UPDATE_COUNT-->1709<!--END_UPDATE_COUNT-->
     </i>
 </p>
