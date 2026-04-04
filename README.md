@@ -69,16 +69,16 @@
 <!--START_SECTION:waka-->
 ```text
 💬 Programming Languages:
-Other        328 hrs 13 mins ███████████░░░░░░░░░░░░░░ 44.72 %
-TypeScript   156 hrs 56 mins █████░░░░░░░░░░░░░░░░░░░░ 21.39 %
-YAML           60 hrs 0 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 8.18 %
-JavaScript    26 hrs 32 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.62 %
+Other        329 hrs 45 mins ███████████░░░░░░░░░░░░░░ 44.84 %
+TypeScript   156 hrs 56 mins █████░░░░░░░░░░░░░░░░░░░░ 21.34 %
+YAML           60 hrs 0 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 8.16 %
+JavaScript    26 hrs 32 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.61 %
 PHP           25 hrs 51 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.52 %
-Markdown      21 hrs 28 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.93 %
-Skript        20 hrs 19 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.77 %
-Vue.js        11 hrs 47 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.61 %
+Markdown      21 hrs 28 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.92 %
+Skript        20 hrs 19 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.76 %
+Vue.js        11 hrs 47 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.60 %
 Astro         11 hrs 27 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.56 %
-Bash           8 hrs 59 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.23 %
+Bash           8 hrs 59 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.22 %
 JSON           8 hrs 36 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.17 %
 Python         8 hrs 35 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.17 %
 Groff          8 hrs 34 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.17 %
@@ -129,28 +129,28 @@ git ignore            0 mins ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:editors-->
 ```text
 🔥 Editors:
-Zed                     195 hrs 44 mins ███████░░░░░░░░░░░░░░░░░░ 26.67 %
-VS Code                 194 hrs 39 mins ███████░░░░░░░░░░░░░░░░░░ 26.53 %
-RemoteDesktopConnection  90 hrs 43 mins ███░░░░░░░░░░░░░░░░░░░░░░ 12.36 %
-LINE                      73 hrs 3 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 9.95 %
-MobaXterm                51 hrs 45 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.05 %
-Cursor                   31 hrs 22 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 4.28 %
-AnyDesk                  18 hrs 25 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.51 %
+Zed                     195 hrs 44 mins ███████░░░░░░░░░░░░░░░░░░ 26.62 %
+VS Code                 194 hrs 39 mins ███████░░░░░░░░░░░░░░░░░░ 26.47 %
+RemoteDesktopConnection  91 hrs 11 mins ███░░░░░░░░░░░░░░░░░░░░░░ 12.40 %
+LINE                      73 hrs 3 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 9.93 %
+MobaXterm                51 hrs 45 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.04 %
+Cursor                   31 hrs 22 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 4.27 %
+AnyDesk                  18 hrs 25 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.50 %
 NavicatPremium            17 hrs 2 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.32 %
 MicrosoftOutlook          11 hrs 6 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.51 %
 WindowsTerminalHost       11 hrs 6 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.51 %
-Settings                  9 hrs 39 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.32 %
-OpenJDKPlatformbinary     6 hrs 40 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.91 %
-TaskManager               3 hrs 21 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.46 %
+Settings                  9 hrs 39 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.31 %
+OpenJDKPlatformbinary      7 hrs 3 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.96 %
+TaskManager                4 hrs 4 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.55 %
 WindowsCommandProcessor   2 hrs 44 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.37 %
 Microsoft.Notes            2 hrs 9 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.29 %
 DiscordCanary              2 hrs 2 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.28 %
 MicrosoftManagementConsole    1 hr 47 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.24 %
 IntelliJIDEACommunityEdition    1 hr 45 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.24 %
-LineMediaPlayer            1 hr 21 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.19 %
+LineMediaPlayer            1 hr 21 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.18 %
 MicrosoftCopilot           1 hr 11 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.16 %
 DockerDesktop               1 hr 4 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.15 %
-DesktopSSHClient                55 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.13 %
+DesktopSSHClient                55 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.12 %
 MicrosoftTeams                  50 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.12 %
 Postman                         50 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.11 %
 Qoder                           47 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.11 %
@@ -187,7 +187,7 @@ Mac             1 hr 30 mins ░░░░░░░░░░░░░░░░░
 <p align="center"> 
     <i>
         ⏰ Timezone : Asia/Bangkok
-        ⏰ Last Updated: <!--LAST_UPDATED-->04 April 2026 01:49:25 (UTC+7)<!--END_LAST_UPDATED-->
-        🔄️ Update Count: <!--UPDATE_COUNT-->1736<!--END_UPDATE_COUNT-->
+        ⏰ Last Updated: <!--LAST_UPDATED-->04 April 2026 09:12:10 (UTC+7)<!--END_LAST_UPDATED-->
+        🔄️ Update Count: <!--UPDATE_COUNT-->1737<!--END_UPDATE_COUNT-->
     </i>
 </p>
