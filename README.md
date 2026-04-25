@@ -69,18 +69,18 @@
 <!--START_SECTION:waka-->
 ```text
 💬 Programming Languages:
-Other        353 hrs 50 mins ████████████░░░░░░░░░░░░░ 46.45 %
-TypeScript   156 hrs 56 mins █████░░░░░░░░░░░░░░░░░░░░ 20.61 %
-YAML          60 hrs 12 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.90 %
-JavaScript    26 hrs 32 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.48 %
-PHP           25 hrs 51 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.40 %
-Markdown      21 hrs 28 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.82 %
-Skript        20 hrs 20 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.67 %
-Vue.js        11 hrs 47 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.55 %
+Other        356 hrs 55 mins ████████████░░░░░░░░░░░░░ 46.67 %
+TypeScript   156 hrs 56 mins █████░░░░░░░░░░░░░░░░░░░░ 20.52 %
+YAML          60 hrs 12 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.87 %
+JavaScript    26 hrs 32 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.47 %
+PHP           25 hrs 51 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.38 %
+Markdown      21 hrs 28 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.81 %
+Skript        20 hrs 20 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.66 %
+Vue.js        11 hrs 47 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.54 %
 Astro         11 hrs 27 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.50 %
-Groff           10 hrs 1 min ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.32 %
-Bash           9 hrs 11 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.21 %
-Python         8 hrs 39 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.14 %
+Groff           10 hrs 1 min ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.31 %
+Bash           9 hrs 11 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.20 %
+Python         8 hrs 39 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.13 %
 JSON           8 hrs 37 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.13 %
 HTML           5 hrs 22 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.70 %
 CSS              4 hrs 1 min ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.53 %
@@ -94,7 +94,7 @@ TOML            1 hr 38 mins ░░░░░░░░░░░░░░░░░
 Java Properties    1 hr 22 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.18 %
 Go              1 hr 16 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.17 %
 JSX                  59 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.13 %
-XML                  57 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.13 %
+XML                  57 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.12 %
 HTTP Request         49 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.11 %
 SQL                  33 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.07 %
 Batchfile            31 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.07 %
@@ -190,7 +190,7 @@ Mac             1 hr 32 mins ░░░░░░░░░░░░░░░░░
 <p align="center"> 
     <i>
         ⏰ Timezone : Asia/Bangkok
-        ⏰ Last Updated: <!--LAST_UPDATED-->25 April 2026 09:31:12 (UTC+7)<!--END_LAST_UPDATED-->
-        🔄️ Update Count: <!--UPDATE_COUNT-->1821<!--END_UPDATE_COUNT-->
+        ⏰ Last Updated: <!--LAST_UPDATED-->25 April 2026 14:18:02 (UTC+7)<!--END_LAST_UPDATED-->
+        🔄️ Update Count: <!--UPDATE_COUNT-->1822<!--END_UPDATE_COUNT-->
     </i>
 </p>
