@@ -69,19 +69,19 @@
 <!--START_SECTION:waka-->
 ```text
 💬 Programming Languages:
-Other         360 hrs 4 mins ████████████░░░░░░░░░░░░░ 46.89 %
-TypeScript   156 hrs 56 mins █████░░░░░░░░░░░░░░░░░░░░ 20.44 %
-YAML          60 hrs 12 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.84 %
-JavaScript    26 hrs 32 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.46 %
+Other         360 hrs 5 mins ████████████░░░░░░░░░░░░░ 46.86 %
+TypeScript   157 hrs 26 mins █████░░░░░░░░░░░░░░░░░░░░ 20.49 %
+YAML          60 hrs 12 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.83 %
+JavaScript    26 hrs 32 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.45 %
 PHP           25 hrs 51 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.37 %
-Markdown      21 hrs 28 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.80 %
+Markdown      21 hrs 29 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.80 %
 Skript        20 hrs 20 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.65 %
-Vue.js        11 hrs 47 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.54 %
+Vue.js        11 hrs 47 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.53 %
 Astro         11 hrs 27 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.49 %
 Groff           10 hrs 1 min ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.30 %
 Bash           9 hrs 11 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.20 %
 Python         8 hrs 39 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.13 %
-JSON           8 hrs 37 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.12 %
+JSON           8 hrs 38 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.12 %
 HTML           5 hrs 22 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.70 %
 CSS              4 hrs 1 min ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.52 %
 C#             3 hrs 29 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.45 %
@@ -104,7 +104,7 @@ CSV                  26 mins ░░░░░░░░░░░░░░░░░
 INI                  13 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.03 %
 TSConfig              9 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.02 %
 C                     8 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.02 %
-MDX                   6 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.02 %
+MDX                   6 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.01 %
 Docker                4 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.01 %
 Groovy                2 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00 %
 shell script          2 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00 %
@@ -118,7 +118,9 @@ Nix                   0 mins ░░░░░░░░░░░░░░░░░
 RPMSpec               0 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00 %
 Objective-C           0 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00 %
 Limbo                 0 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00 %
+GraphQL               0 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00 %
 Smali                 0 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00 %
+nvmrc                 0 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00 %
 git ignore            0 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00 %
 
 ```
@@ -190,7 +192,7 @@ Mac             2 hrs 5 mins ░░░░░░░░░░░░░░░░░
 <p align="center"> 
     <i>
         ⏰ Timezone : Asia/Bangkok
-        ⏰ Last Updated: <!--LAST_UPDATED-->27 April 2026 09:50:59 (UTC+7)<!--END_LAST_UPDATED-->
-        🔄️ Update Count: <!--UPDATE_COUNT-->1829<!--END_UPDATE_COUNT-->
+        ⏰ Last Updated: <!--LAST_UPDATED-->27 April 2026 15:26:59 (UTC+7)<!--END_LAST_UPDATED-->
+        🔄️ Update Count: <!--UPDATE_COUNT-->1830<!--END_UPDATE_COUNT-->
     </i>
 </p>
