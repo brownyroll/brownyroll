@@ -69,18 +69,18 @@
 <!--START_SECTION:waka-->
 ```text
 💬 Programming Languages:
-Other         360 hrs 5 mins ████████████░░░░░░░░░░░░░ 46.86 %
-TypeScript   157 hrs 26 mins █████░░░░░░░░░░░░░░░░░░░░ 20.49 %
-YAML          60 hrs 12 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.83 %
+Other         361 hrs 6 mins ████████████░░░░░░░░░░░░░ 46.93 %
+TypeScript   157 hrs 26 mins █████░░░░░░░░░░░░░░░░░░░░ 20.46 %
+YAML          60 hrs 12 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.82 %
 JavaScript    26 hrs 32 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.45 %
-PHP           25 hrs 51 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.37 %
-Markdown      21 hrs 29 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.80 %
-Skript        20 hrs 20 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.65 %
+PHP           25 hrs 51 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.36 %
+Markdown      21 hrs 29 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.79 %
+Skript        20 hrs 20 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.64 %
 Vue.js        11 hrs 47 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.53 %
 Astro         11 hrs 27 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.49 %
 Groff           10 hrs 1 min ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.30 %
-Bash           9 hrs 11 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.20 %
-Python         8 hrs 39 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.13 %
+Bash           9 hrs 11 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.19 %
+Python         8 hrs 39 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.12 %
 JSON           8 hrs 38 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.12 %
 HTML           5 hrs 22 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.70 %
 CSS              4 hrs 1 min ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.52 %
@@ -192,7 +192,7 @@ Mac             2 hrs 5 mins ░░░░░░░░░░░░░░░░░
 <p align="center"> 
     <i>
         ⏰ Timezone : Asia/Bangkok
-        ⏰ Last Updated: <!--LAST_UPDATED-->28 April 2026 09:57:39 (UTC+7)<!--END_LAST_UPDATED-->
-        🔄️ Update Count: <!--UPDATE_COUNT-->1833<!--END_UPDATE_COUNT-->
+        ⏰ Last Updated: <!--LAST_UPDATED-->28 April 2026 15:25:20 (UTC+7)<!--END_LAST_UPDATED-->
+        🔄️ Update Count: <!--UPDATE_COUNT-->1834<!--END_UPDATE_COUNT-->
     </i>
 </p>
