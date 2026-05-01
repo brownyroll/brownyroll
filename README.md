@@ -69,20 +69,20 @@
 <!--START_SECTION:waka-->
 ```text
 💬 Programming Languages:
-Other         361 hrs 8 mins ████████████░░░░░░░░░░░░░ 46.90 %
-TypeScript   157 hrs 26 mins █████░░░░░░░░░░░░░░░░░░░░ 20.45 %
-YAML          60 hrs 12 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.82 %
-JavaScript    26 hrs 33 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.45 %
-PHP           25 hrs 52 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.36 %
-Markdown      21 hrs 39 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.81 %
-Skript        20 hrs 20 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.64 %
+Other        361 hrs 27 mins ████████████░░░░░░░░░░░░░ 46.77 %
+TypeScript   157 hrs 26 mins █████░░░░░░░░░░░░░░░░░░░░ 20.37 %
+YAML          60 hrs 12 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.79 %
+JavaScript    26 hrs 46 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.46 %
+PHP           25 hrs 52 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.35 %
+Markdown      21 hrs 39 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.80 %
+Skript        20 hrs 20 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.63 %
+Astro         13 hrs 28 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.74 %
 Vue.js        11 hrs 47 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.53 %
-Astro         11 hrs 27 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.49 %
 Groff           10 hrs 1 min ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.30 %
-Bash           9 hrs 23 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.22 %
-Python         8 hrs 44 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.14 %
-JSON           8 hrs 38 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.12 %
-HTML           5 hrs 22 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.70 %
+Bash           9 hrs 32 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.24 %
+Python         8 hrs 44 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.13 %
+JSON           8 hrs 41 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.12 %
+HTML           5 hrs 22 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.69 %
 CSS              4 hrs 1 min ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.52 %
 C#             3 hrs 29 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.45 %
 Java           3 hrs 20 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.43 %
@@ -102,7 +102,7 @@ CSV                  27 mins ░░░░░░░░░░░░░░░░░
 Gosu                 27 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.06 %
 Git Config           27 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.06 %
 INI                  13 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.03 %
-TSConfig             10 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.02 %
+TSConfig             11 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.02 %
 C                     8 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.02 %
 MDX                   6 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.01 %
 Docker                4 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.01 %
@@ -192,7 +192,7 @@ Mac             5 hrs 5 mins ░░░░░░░░░░░░░░░░░
 <p align="center"> 
     <i>
         ⏰ Timezone : Asia/Bangkok
-        ⏰ Last Updated: <!--LAST_UPDATED-->01 May 2026 02:22:47 (UTC+7)<!--END_LAST_UPDATED-->
-        🔄️ Update Count: <!--UPDATE_COUNT-->1844<!--END_UPDATE_COUNT-->
+        ⏰ Last Updated: <!--LAST_UPDATED-->01 May 2026 10:28:38 (UTC+7)<!--END_LAST_UPDATED-->
+        🔄️ Update Count: <!--UPDATE_COUNT-->1845<!--END_UPDATE_COUNT-->
     </i>
 </p>
