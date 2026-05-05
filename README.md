@@ -69,8 +69,8 @@
 <!--START_SECTION:waka-->
 ```text
 💬 Programming Languages:
-Other        364 hrs 21 mins ████████████░░░░░░░░░░░░░ 46.94 %
-TypeScript   157 hrs 27 mins █████░░░░░░░░░░░░░░░░░░░░ 20.29 %
+Other        364 hrs 26 mins ████████████░░░░░░░░░░░░░ 46.95 %
+TypeScript   157 hrs 27 mins █████░░░░░░░░░░░░░░░░░░░░ 20.28 %
 YAML          60 hrs 12 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.76 %
 JavaScript    26 hrs 46 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.45 %
 PHP           25 hrs 52 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.33 %
@@ -133,7 +133,7 @@ git ignore            0 mins ░░░░░░░░░░░░░░░░░
 🔥 Editors:
 Zed                      196 hrs 4 mins ██████░░░░░░░░░░░░░░░░░░░ 25.26 %
 VS Code                 194 hrs 52 mins ██████░░░░░░░░░░░░░░░░░░░ 25.11 %
-RemoteDesktopConnection 108 hrs 10 mins ███░░░░░░░░░░░░░░░░░░░░░░ 13.94 %
+RemoteDesktopConnection 108 hrs 15 mins ███░░░░░░░░░░░░░░░░░░░░░░ 13.95 %
 LINE                     73 hrs 33 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 9.48 %
 MobaXterm                 52 hrs 8 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 6.72 %
 Cursor                   31 hrs 22 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 4.04 %
@@ -192,7 +192,7 @@ Mac            5 hrs 26 mins ░░░░░░░░░░░░░░░░░
 <p align="center"> 
     <i>
         ⏰ Timezone : Asia/Bangkok
-        ⏰ Last Updated: <!--LAST_UPDATED-->05 May 2026 02:40:50 (UTC+7)<!--END_LAST_UPDATED-->
-        🔄️ Update Count: <!--UPDATE_COUNT-->1860<!--END_UPDATE_COUNT-->
+        ⏰ Last Updated: <!--LAST_UPDATED-->05 May 2026 09:47:33 (UTC+7)<!--END_LAST_UPDATED-->
+        🔄️ Update Count: <!--UPDATE_COUNT-->1861<!--END_UPDATE_COUNT-->
     </i>
 </p>
