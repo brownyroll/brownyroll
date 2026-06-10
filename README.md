@@ -135,12 +135,12 @@ git ignore            0 mins ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:editors-->
 ```text
 🔥 Editors:
-VS Code                 224 hrs 56 mins ███████░░░░░░░░░░░░░░░░░░ 27.92 %
-Zed                     190 hrs 25 mins ██████░░░░░░░░░░░░░░░░░░░ 23.64 %
-RemoteDesktopConnection  112 hrs 3 mins ███░░░░░░░░░░░░░░░░░░░░░░ 13.91 %
-LINE                     73 hrs 23 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 9.11 %
+VS Code                 225 hrs 24 mins ███████░░░░░░░░░░░░░░░░░░ 27.95 %
+Zed                     190 hrs 25 mins ██████░░░░░░░░░░░░░░░░░░░ 23.61 %
+RemoteDesktopConnection  112 hrs 3 mins ███░░░░░░░░░░░░░░░░░░░░░░ 13.89 %
+LINE                     73 hrs 23 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 9.10 %
 MobaXterm                 52 hrs 8 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 6.47 %
-OpenJDKPlatformbinary     20 hrs 8 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.50 %
+OpenJDKPlatformbinary    20 hrs 37 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.56 %
 AnyDesk                  18 hrs 32 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.30 %
 NavicatPremium           17 hrs 43 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.20 %
 Claude Code              16 hrs 54 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.10 %
@@ -195,7 +195,7 @@ Mac           23 hrs 25 mins █░░░░░░░░░░░░░░░░
 <p align="center"> 
     <i>
         ⏰ Timezone : Asia/Bangkok
-        ⏰ Last Updated: <!--LAST_UPDATED-->10 June 2026 10:47:29 (UTC+7)<!--END_LAST_UPDATED-->
-        🔄️ Update Count: <!--UPDATE_COUNT-->2004<!--END_UPDATE_COUNT-->
+        ⏰ Last Updated: <!--LAST_UPDATED-->10 June 2026 17:00:59 (UTC+7)<!--END_LAST_UPDATED-->
+        🔄️ Update Count: <!--UPDATE_COUNT-->2005<!--END_UPDATE_COUNT-->
     </i>
 </p>
