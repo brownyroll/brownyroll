@@ -69,17 +69,17 @@
 <!--START_SECTION:waka-->
 ```text
 💬 Programming Languages:
-Other        375 hrs 25 mins ████████████░░░░░░░░░░░░░ 46.53 %
-TypeScript   168 hrs 47 mins █████░░░░░░░░░░░░░░░░░░░░ 20.92 %
-YAML          60 hrs 20 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.48 %
+Other        376 hrs 53 mins ████████████░░░░░░░░░░░░░ 46.62 %
+TypeScript   168 hrs 47 mins █████░░░░░░░░░░░░░░░░░░░░ 20.88 %
+YAML          60 hrs 20 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.47 %
 JavaScript    26 hrs 43 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.31 %
-PHP           25 hrs 33 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.17 %
+PHP           25 hrs 33 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.16 %
 Markdown      24 hrs 43 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.06 %
 Skript        20 hrs 20 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.52 %
 Astro         13 hrs 24 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.66 %
 Vue.js        11 hrs 47 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.46 %
-Groff          10 hrs 8 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.26 %
-Bash           10 hrs 8 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.26 %
+Groff          10 hrs 8 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.25 %
+Bash           10 hrs 8 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.25 %
 Python         9 hrs 21 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.16 %
 JSON           8 hrs 51 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.10 %
 HTML            5 hrs 4 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.63 %
@@ -87,7 +87,7 @@ Prisma         4 hrs 16 mins ░░░░░░░░░░░░░░░░░
 CSS            4 hrs 13 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.52 %
 Java            4 hrs 3 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.50 %
 C#             3 hrs 31 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.44 %
-Text           2 hrs 56 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.37 %
+Text           2 hrs 56 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.36 %
 Kotlin         2 hrs 40 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.33 %
 Ruby            2 hrs 0 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.25 %
 TOML            1 hr 38 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.20 %
@@ -195,7 +195,7 @@ Mac           23 hrs 25 mins █░░░░░░░░░░░░░░░░
 <p align="center"> 
     <i>
         ⏰ Timezone : Asia/Bangkok
-        ⏰ Last Updated: <!--LAST_UPDATED-->19 June 2026 11:21:08 (UTC+7)<!--END_LAST_UPDATED-->
-        🔄️ Update Count: <!--UPDATE_COUNT-->2039<!--END_UPDATE_COUNT-->
+        ⏰ Last Updated: <!--LAST_UPDATED-->19 June 2026 17:26:19 (UTC+7)<!--END_LAST_UPDATED-->
+        🔄️ Update Count: <!--UPDATE_COUNT-->2040<!--END_UPDATE_COUNT-->
     </i>
 </p>
