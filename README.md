@@ -69,12 +69,12 @@
 <!--START_SECTION:waka-->
 ```text
 💬 Programming Languages:
-Other        385 hrs 19 mins ████████████░░░░░░░░░░░░░ 47.04 %
-TypeScript    169 hrs 0 mins █████░░░░░░░░░░░░░░░░░░░░ 20.63 %
-YAML          60 hrs 31 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.39 %
+Other        385 hrs 19 mins ████████████░░░░░░░░░░░░░ 46.99 %
+TypeScript    169 hrs 0 mins █████░░░░░░░░░░░░░░░░░░░░ 20.61 %
+YAML          60 hrs 34 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.39 %
 JavaScript    26 hrs 43 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.26 %
 PHP           25 hrs 33 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.12 %
-Markdown       25 hrs 3 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.06 %
+Markdown       25 hrs 8 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.07 %
 Skript        20 hrs 20 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.48 %
 Astro         13 hrs 24 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.64 %
 Vue.js        11 hrs 47 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.44 %
@@ -82,16 +82,16 @@ Bash          10 hrs 18 mins ░░░░░░░░░░░░░░░░░
 Groff          10 hrs 8 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.24 %
 Python         9 hrs 21 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.14 %
 JSON           8 hrs 51 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.08 %
+Java           5 hrs 30 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.67 %
 HTML            5 hrs 4 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.62 %
-Java           4 hrs 58 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.61 %
 Prisma         4 hrs 29 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.55 %
 CSS            4 hrs 17 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.52 %
 C#             3 hrs 31 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.43 %
 Text           2 hrs 56 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.36 %
 Kotlin         2 hrs 40 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.33 %
 Ruby            2 hrs 0 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.25 %
+XML             1 hr 38 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.20 %
 TOML            1 hr 38 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.20 %
-XML             1 hr 23 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.17 %
 Java Properties    1 hr 22 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.17 %
 Go              1 hr 16 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.16 %
 CSHTML          1 hr 11 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.15 %
@@ -196,7 +196,7 @@ Mac           26 hrs 46 mins █░░░░░░░░░░░░░░░░
 <p align="center"> 
     <i>
         ⏰ Timezone : Asia/Bangkok
-        ⏰ Last Updated: <!--LAST_UPDATED-->10 July 2026 10:21:22 (UTC+7)<!--END_LAST_UPDATED-->
-        🔄️ Update Count: <!--UPDATE_COUNT-->2123<!--END_UPDATE_COUNT-->
+        ⏰ Last Updated: <!--LAST_UPDATED-->10 July 2026 16:34:57 (UTC+7)<!--END_LAST_UPDATED-->
+        🔄️ Update Count: <!--UPDATE_COUNT-->2124<!--END_UPDATE_COUNT-->
     </i>
 </p>
