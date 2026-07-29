@@ -70,8 +70,8 @@
 ```text
 💬 Programming Languages:
 Other        386 hrs 29 mins ████████████░░░░░░░░░░░░░ 46.26 %
-TypeScript    177 hrs 4 mins █████░░░░░░░░░░░░░░░░░░░░ 21.20 %
-YAML          60 hrs 51 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.29 %
+TypeScript    177 hrs 8 mins █████░░░░░░░░░░░░░░░░░░░░ 21.20 %
+YAML          60 hrs 51 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.28 %
 Markdown      26 hrs 57 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.23 %
 JavaScript    26 hrs 44 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.20 %
 PHP           25 hrs 33 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.06 %
@@ -139,11 +139,11 @@ git ignore            0 mins ░░░░░░░░░░░░░░░░░
 VS Code                 194 hrs 52 mins ██████░░░░░░░░░░░░░░░░░░░ 23.33 %
 Zed                     190 hrs 25 mins ██████░░░░░░░░░░░░░░░░░░░ 22.79 %
 RemoteDesktopConnection 112 hrs 21 mins ███░░░░░░░░░░░░░░░░░░░░░░ 13.45 %
-LINE                     73 hrs 23 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 8.79 %
+LINE                     73 hrs 23 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 8.78 %
 MobaXterm                 52 hrs 8 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 6.24 %
 OpenJDKPlatformbinary    29 hrs 32 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.54 %
 Cursor                   28 hrs 17 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.39 %
-Antigravity IDE          20 hrs 24 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.44 %
+Antigravity IDE          20 hrs 28 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.45 %
 AnyDesk                  18 hrs 32 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.22 %
 NavicatPremium           17 hrs 43 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.12 %
 Claude Code              16 hrs 54 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.02 %
@@ -154,7 +154,7 @@ WindowsTerminalHost       11 hrs 6 mins ░░░░░░░░░░░░░�
 TaskManager               8 hrs 36 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.03 %
 Unknown Editor            3 hrs 56 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.47 %
 WindowsCommandProcessor   2 hrs 44 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.33 %
-DiscordCanary             2 hrs 27 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.30 %
+DiscordCanary             2 hrs 27 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.29 %
 Microsoft.Notes            2 hrs 9 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.26 %
 IntelliJIDEACommunityEdition    2 hrs 2 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.24 %
 MicrosoftManagementConsole    1 hr 52 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.22 %
@@ -181,9 +181,9 @@ pgAdmin4                         0 mins ░░░░░░░░░░░░░�
 <!--START_SECTION:os-->
 ```text
 💻 Operating System:
-Windows      739 hrs 43 mins ██████████████████████░░░ 88.55 %
+Windows      739 hrs 43 mins ██████████████████████░░░ 88.54 %
 Linux         62 hrs 32 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.49 %
-Mac            33 hrs 7 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.97 %
+Mac           33 hrs 11 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.97 %
 ```
 <!--END_SECTION:os-->
 </p>
@@ -198,7 +198,7 @@ Mac            33 hrs 7 mins █░░░░░░░░░░░░░░░░
 <p align="center"> 
     <i>
         ⏰ Timezone : Asia/Bangkok
-        ⏰ Last Updated: <!--LAST_UPDATED-->29 July 2026 02:23:42 (UTC+7)<!--END_LAST_UPDATED-->
-        🔄️ Update Count: <!--UPDATE_COUNT-->2198<!--END_UPDATE_COUNT-->
+        ⏰ Last Updated: <!--LAST_UPDATED-->29 July 2026 09:38:29 (UTC+7)<!--END_LAST_UPDATED-->
+        🔄️ Update Count: <!--UPDATE_COUNT-->2199<!--END_UPDATE_COUNT-->
     </i>
 </p>
