@@ -70,7 +70,7 @@
 ```text
 💬 Programming Languages:
 Other        386 hrs 30 mins ████████████░░░░░░░░░░░░░ 46.17 %
-TypeScript    178 hrs 9 mins █████░░░░░░░░░░░░░░░░░░░░ 21.28 %
+TypeScript   178 hrs 11 mins █████░░░░░░░░░░░░░░░░░░░░ 21.29 %
 YAML          60 hrs 51 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.27 %
 Markdown       27 hrs 9 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.24 %
 JavaScript    26 hrs 44 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.19 %
@@ -144,7 +144,7 @@ LINE                     73 hrs 23 mins ██░░░░░░░░░░░�
 MobaXterm                 52 hrs 8 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 6.23 %
 OpenJDKPlatformbinary    29 hrs 32 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.53 %
 Cursor                   28 hrs 17 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.38 %
-Antigravity IDE           22 hrs 7 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.64 %
+Antigravity IDE           22 hrs 9 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.65 %
 AnyDesk                  18 hrs 32 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.21 %
 NavicatPremium           17 hrs 43 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.12 %
 Claude Code              16 hrs 54 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.02 %
@@ -199,7 +199,7 @@ Mac           33 hrs 14 mins █░░░░░░░░░░░░░░░░
 <p align="center"> 
     <i>
         ⏰ Timezone : Asia/Bangkok
-        ⏰ Last Updated: <!--LAST_UPDATED-->05 August 2026 09:31:27 (UTC+7)<!--END_LAST_UPDATED-->
-        🔄️ Update Count: <!--UPDATE_COUNT-->2227<!--END_UPDATE_COUNT-->
+        ⏰ Last Updated: <!--LAST_UPDATED-->05 August 2026 15:35:03 (UTC+7)<!--END_LAST_UPDATED-->
+        🔄️ Update Count: <!--UPDATE_COUNT-->2228<!--END_UPDATE_COUNT-->
     </i>
 </p>
