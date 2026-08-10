@@ -144,14 +144,14 @@ LINE                     73 hrs 23 mins ██░░░░░░░░░░░�
 MobaXterm                 52 hrs 8 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 6.22 %
 OpenJDKPlatformbinary    29 hrs 32 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.53 %
 Cursor                   28 hrs 17 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.38 %
-Antigravity IDE            23 hrs 1 min █░░░░░░░░░░░░░░░░░░░░░░░░ 2.75 %
+Antigravity IDE           23 hrs 8 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.76 %
 AnyDesk                  18 hrs 32 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.21 %
 NavicatPremium           17 hrs 43 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.11 %
 Claude Code              16 hrs 54 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.02 %
 Antigravity              13 hrs 54 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.66 %
 Settings                 12 hrs 35 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.50 %
 MicrosoftOutlook          11 hrs 6 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.33 %
-WindowsTerminalHost       11 hrs 6 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.33 %
+WindowsTerminalHost       11 hrs 6 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.32 %
 TaskManager               8 hrs 36 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.03 %
 Unknown Editor            3 hrs 56 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.47 %
 WindowsCommandProcessor   2 hrs 44 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.33 %
@@ -182,9 +182,9 @@ pgAdmin4                         0 mins ░░░░░░░░░░░░░�
 <!--START_SECTION:os-->
 ```text
 💻 Operating System:
-Windows      739 hrs 43 mins ██████████████████████░░░ 88.27 %
+Windows      739 hrs 43 mins ██████████████████████░░░ 88.26 %
 Linux         64 hrs 12 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.66 %
-Mac            34 hrs 4 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 4.07 %
+Mac           34 hrs 11 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 4.08 %
 ```
 <!--END_SECTION:os-->
 </p>
@@ -199,7 +199,7 @@ Mac            34 hrs 4 mins █░░░░░░░░░░░░░░░░
 <p align="center"> 
     <i>
         ⏰ Timezone : Asia/Bangkok
-        ⏰ Last Updated: <!--LAST_UPDATED-->10 August 2026 08:48:11 (UTC+7)<!--END_LAST_UPDATED-->
-        🔄️ Update Count: <!--UPDATE_COUNT-->2247<!--END_UPDATE_COUNT-->
+        ⏰ Last Updated: <!--LAST_UPDATED-->10 August 2026 14:40:33 (UTC+7)<!--END_LAST_UPDATED-->
+        🔄️ Update Count: <!--UPDATE_COUNT-->2248<!--END_UPDATE_COUNT-->
     </i>
 </p>
