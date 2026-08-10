@@ -69,9 +69,9 @@
 <!--START_SECTION:waka-->
 ```text
 💬 Programming Languages:
-Other        386 hrs 32 mins ████████████░░░░░░░░░░░░░ 46.13 %
-TypeScript   178 hrs 11 mins █████░░░░░░░░░░░░░░░░░░░░ 21.26 %
-YAML           61 hrs 2 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.28 %
+Other        386 hrs 32 mins ████████████░░░░░░░░░░░░░ 46.12 %
+TypeScript   178 hrs 12 mins █████░░░░░░░░░░░░░░░░░░░░ 21.26 %
+YAML           61 hrs 8 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.30 %
 Markdown      27 hrs 22 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.27 %
 JavaScript    26 hrs 44 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.19 %
 PHP           25 hrs 33 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.05 %
@@ -199,7 +199,7 @@ Mac            34 hrs 4 mins █░░░░░░░░░░░░░░░░
 <p align="center"> 
     <i>
         ⏰ Timezone : Asia/Bangkok
-        ⏰ Last Updated: <!--LAST_UPDATED-->10 August 2026 01:39:49 (UTC+7)<!--END_LAST_UPDATED-->
-        🔄️ Update Count: <!--UPDATE_COUNT-->2246<!--END_UPDATE_COUNT-->
+        ⏰ Last Updated: <!--LAST_UPDATED-->10 August 2026 08:48:11 (UTC+7)<!--END_LAST_UPDATED-->
+        🔄️ Update Count: <!--UPDATE_COUNT-->2247<!--END_UPDATE_COUNT-->
     </i>
 </p>
