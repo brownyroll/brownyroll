@@ -69,22 +69,22 @@
 <!--START_SECTION:waka-->
 ```text
 💬 Programming Languages:
-Other        386 hrs 32 mins ████████████░░░░░░░░░░░░░ 46.10 %
-TypeScript   178 hrs 21 mins █████░░░░░░░░░░░░░░░░░░░░ 21.27 %
-YAML          61 hrs 12 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.30 %
-Markdown      27 hrs 23 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.27 %
+Other        386 hrs 32 mins ████████████░░░░░░░░░░░░░ 46.06 %
+TypeScript   178 hrs 21 mins █████░░░░░░░░░░░░░░░░░░░░ 21.25 %
+YAML          61 hrs 15 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.30 %
+Markdown      27 hrs 26 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.27 %
 JavaScript    26 hrs 44 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.19 %
 PHP           25 hrs 33 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.05 %
-Skript        20 hrs 20 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.43 %
-Astro         13 hrs 47 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.65 %
+Skript        20 hrs 20 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.42 %
+Astro         13 hrs 47 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.64 %
 Vue.js        11 hrs 47 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.41 %
 Bash          10 hrs 30 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.25 %
 Groff          10 hrs 8 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.21 %
-Python         9 hrs 21 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.12 %
+Python         9 hrs 21 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.11 %
 JSON           8 hrs 56 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.07 %
-Java           7 hrs 52 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.94 %
+Java           8 hrs 33 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.02 %
 Prisma         5 hrs 33 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.66 %
-HTML            5 hrs 4 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.61 %
+HTML            5 hrs 4 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.60 %
 CSS            4 hrs 35 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.55 %
 C#             3 hrs 31 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.42 %
 Text           2 hrs 56 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.35 %
@@ -137,17 +137,17 @@ git ignore            0 mins ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:editors-->
 ```text
 🔥 Editors:
-VS Code                 194 hrs 52 mins ██████░░░░░░░░░░░░░░░░░░░ 23.24 %
-Zed                     190 hrs 25 mins ██████░░░░░░░░░░░░░░░░░░░ 22.71 %
-RemoteDesktopConnection 112 hrs 21 mins ███░░░░░░░░░░░░░░░░░░░░░░ 13.40 %
+VS Code                 194 hrs 52 mins ██████░░░░░░░░░░░░░░░░░░░ 23.22 %
+Zed                     190 hrs 25 mins ██████░░░░░░░░░░░░░░░░░░░ 22.69 %
+RemoteDesktopConnection 112 hrs 21 mins ███░░░░░░░░░░░░░░░░░░░░░░ 13.39 %
 LINE                     73 hrs 23 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 8.75 %
-MobaXterm                 52 hrs 8 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 6.22 %
+MobaXterm                 52 hrs 8 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 6.21 %
 OpenJDKPlatformbinary    29 hrs 32 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.52 %
-Cursor                   28 hrs 17 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.38 %
-Antigravity IDE          23 hrs 26 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.80 %
+Cursor                   28 hrs 17 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.37 %
+Antigravity IDE          24 hrs 15 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.89 %
 AnyDesk                  18 hrs 32 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.21 %
 NavicatPremium           17 hrs 43 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.11 %
-Claude Code              16 hrs 54 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.02 %
+Claude Code              16 hrs 54 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.01 %
 Antigravity              13 hrs 54 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.66 %
 Settings                 12 hrs 35 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.50 %
 MicrosoftOutlook          11 hrs 6 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.32 %
@@ -182,9 +182,9 @@ pgAdmin4                         0 mins ░░░░░░░░░░░░░�
 <!--START_SECTION:os-->
 ```text
 💻 Operating System:
-Windows      739 hrs 43 mins ██████████████████████░░░ 88.23 %
-Linux         64 hrs 12 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.66 %
-Mac           34 hrs 29 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 4.11 %
+Windows      739 hrs 43 mins ██████████████████████░░░ 88.14 %
+Linux         64 hrs 12 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.65 %
+Mac           35 hrs 18 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 4.21 %
 ```
 <!--END_SECTION:os-->
 </p>
@@ -199,7 +199,7 @@ Mac           34 hrs 29 mins █░░░░░░░░░░░░░░░░
 <p align="center"> 
     <i>
         ⏰ Timezone : Asia/Bangkok
-        ⏰ Last Updated: <!--LAST_UPDATED-->13 August 2026 08:58:39 (UTC+7)<!--END_LAST_UPDATED-->
-        🔄️ Update Count: <!--UPDATE_COUNT-->2259<!--END_UPDATE_COUNT-->
+        ⏰ Last Updated: <!--LAST_UPDATED-->13 August 2026 14:26:12 (UTC+7)<!--END_LAST_UPDATED-->
+        🔄️ Update Count: <!--UPDATE_COUNT-->2260<!--END_UPDATE_COUNT-->
     </i>
 </p>
