@@ -69,29 +69,29 @@
 <!--START_SECTION:waka-->
 ```text
 💬 Programming Languages:
-Other        386 hrs 32 mins ████████████░░░░░░░░░░░░░ 46.03 %
-TypeScript   178 hrs 33 mins █████░░░░░░░░░░░░░░░░░░░░ 21.26 %
-YAML          61 hrs 15 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.29 %
-Markdown      27 hrs 27 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.27 %
-JavaScript    26 hrs 44 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.18 %
-PHP           25 hrs 33 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.04 %
-Skript        20 hrs 20 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.42 %
-Astro         13 hrs 47 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.64 %
-Vue.js        11 hrs 47 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.40 %
-Bash          10 hrs 50 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.29 %
-Groff          10 hrs 8 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.21 %
-Python         9 hrs 21 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.11 %
-JSON           8 hrs 56 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.06 %
-Java           8 hrs 33 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.02 %
-Prisma         5 hrs 33 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.66 %
-HTML            5 hrs 4 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.60 %
-CSS            4 hrs 35 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.55 %
-C#             3 hrs 31 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.42 %
+Other        386 hrs 35 mins ███████████░░░░░░░░░░░░░░ 45.26 %
+TypeScript    183 hrs 3 mins █████░░░░░░░░░░░░░░░░░░░░ 21.43 %
+YAML          61 hrs 16 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.17 %
+JavaScript     30 hrs 4 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.52 %
+Markdown      27 hrs 31 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.22 %
+PHP           25 hrs 33 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.99 %
+Skript        20 hrs 20 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.38 %
+Astro         13 hrs 47 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.62 %
+Vue.js        11 hrs 47 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.38 %
+Bash          10 hrs 52 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.27 %
+Groff          10 hrs 8 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.19 %
+C#             9 hrs 46 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.15 %
+Python         9 hrs 21 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.09 %
+JSON           8 hrs 56 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.05 %
+Java           8 hrs 33 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.00 %
+Prisma         5 hrs 34 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.65 %
+HTML            5 hrs 4 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.59 %
+CSS            4 hrs 42 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.55 %
 Text           2 hrs 56 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.35 %
-Kotlin         2 hrs 40 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.32 %
+Kotlin         2 hrs 40 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.31 %
 Ruby            2 hrs 0 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.24 %
-XML             1 hr 48 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.22 %
-TOML            1 hr 38 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.20 %
+XML             1 hr 48 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.21 %
+TOML            1 hr 38 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.19 %
 Java Properties    1 hr 22 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.16 %
 Go              1 hr 16 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.15 %
 CSHTML          1 hr 11 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.14 %
@@ -200,7 +200,7 @@ Mac           36 hrs 53 mins █░░░░░░░░░░░░░░░░
 <p align="center"> 
     <i>
         ⏰ Timezone : Asia/Bangkok
-        ⏰ Last Updated: <!--LAST_UPDATED-->06 September 2026 10:16:17 (UTC+7)<!--END_LAST_UPDATED-->
-        🔄️ Update Count: <!--UPDATE_COUNT-->2349<!--END_UPDATE_COUNT-->
+        ⏰ Last Updated: <!--LAST_UPDATED-->06 September 2026 17:23:08 (UTC+7)<!--END_LAST_UPDATED-->
+        🔄️ Update Count: <!--UPDATE_COUNT-->2350<!--END_UPDATE_COUNT-->
     </i>
 </p>
