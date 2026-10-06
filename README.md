@@ -69,17 +69,17 @@
 <!--START_SECTION:waka-->
 ```text
 💬 Programming Languages:
-Other        388 hrs 51 mins ███████████░░░░░░░░░░░░░░ 44.53 %
-TypeScript    189 hrs 6 mins █████░░░░░░░░░░░░░░░░░░░░ 21.66 %
-YAML          62 hrs 16 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.13 %
-JavaScript    32 hrs 34 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.73 %
+Other         390 hrs 8 mins ███████████░░░░░░░░░░░░░░ 44.58 %
+TypeScript    189 hrs 6 mins █████░░░░░░░░░░░░░░░░░░░░ 21.61 %
+YAML          62 hrs 16 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.12 %
+JavaScript    32 hrs 34 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.72 %
 Markdown       28 hrs 8 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.22 %
-PHP           25 hrs 49 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.96 %
+PHP           25 hrs 49 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.95 %
 Skript        20 hrs 20 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.33 %
 Astro         13 hrs 47 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.58 %
 C#            13 hrs 42 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.57 %
+Bash          12 hrs 20 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.41 %
 Vue.js        11 hrs 47 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.35 %
-Bash          11 hrs 44 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.34 %
 Groff          10 hrs 8 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.16 %
 Python         9 hrs 33 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.09 %
 JSON           9 hrs 22 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.07 %
@@ -201,7 +201,7 @@ Mac           49 hrs 31 mins █░░░░░░░░░░░░░░░░
 <p align="center"> 
     <i>
         ⏰ Timezone : Asia/Bangkok
-        ⏰ Last Updated: <!--LAST_UPDATED-->06 October 2026 12:12:11 (UTC+7)<!--END_LAST_UPDATED-->
-        🔄️ Update Count: <!--UPDATE_COUNT-->2462<!--END_UPDATE_COUNT-->
+        ⏰ Last Updated: <!--LAST_UPDATED-->06 October 2026 19:52:19 (UTC+7)<!--END_LAST_UPDATED-->
+        🔄️ Update Count: <!--UPDATE_COUNT-->2463<!--END_UPDATE_COUNT-->
     </i>
 </p>
