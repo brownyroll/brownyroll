@@ -71,7 +71,7 @@
 💬 Programming Languages:
 Other         391 hrs 3 mins ███████████░░░░░░░░░░░░░░ 44.59 %
 TypeScript   189 hrs 14 mins █████░░░░░░░░░░░░░░░░░░░░ 21.58 %
-YAML          62 hrs 23 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.12 %
+YAML          62 hrs 23 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.11 %
 JavaScript    32 hrs 34 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.71 %
 Markdown      28 hrs 13 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.22 %
 PHP           25 hrs 49 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.94 %
@@ -108,13 +108,13 @@ TSConfig             13 mins ░░░░░░░░░░░░░░░░░
 Lua                  13 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.03 %
 SSH Config           11 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.02 %
 C                     8 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.02 %
+Swift                 7 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.01 %
 MDX                   6 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.01 %
 Docker                6 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.01 %
 Groovy                2 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00 %
 shell script          2 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00 %
 Io                    2 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00 %
 PowerShell             1 min ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00 %
-Swift                  1 min ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00 %
 Image (svg)            1 min ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00 %
 HCL                   0 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00 %
 MySQL                 0 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00 %
@@ -139,7 +139,7 @@ git ignore            0 mins ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:editors-->
 ```text
 🔥 Editors:
-VS Code                 220 hrs 56 mins ██████░░░░░░░░░░░░░░░░░░░ 25.19 %
+VS Code                  221 hrs 2 mins ██████░░░░░░░░░░░░░░░░░░░ 25.20 %
 Zed                     190 hrs 25 mins █████░░░░░░░░░░░░░░░░░░░░ 21.71 %
 RemoteDesktopConnection 112 hrs 21 mins ███░░░░░░░░░░░░░░░░░░░░░░ 12.81 %
 LINE                     73 hrs 23 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 8.37 %
@@ -162,7 +162,7 @@ DiscordCanary             2 hrs 27 mins ░░░░░░░░░░░░░�
 Microsoft.Notes            2 hrs 9 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.25 %
 IntelliJIDEACommunityEdition    2 hrs 2 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.23 %
 MicrosoftManagementConsole    1 hr 52 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.21 %
-LineMediaPlayer            1 hr 21 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.16 %
+LineMediaPlayer            1 hr 21 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.15 %
 MicrosoftCopilot           1 hr 11 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.13 %
 DockerDesktop               1 hr 4 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.12 %
 DesktopSSHClient                55 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.10 %
@@ -185,9 +185,9 @@ pgAdmin4                         0 mins ░░░░░░░░░░░░░�
 <!--START_SECTION:os-->
 ```text
 💻 Operating System:
-Windows      761 hrs 23 mins ██████████████████████░░░ 86.82 %
+Windows      761 hrs 23 mins ██████████████████████░░░ 86.81 %
 Linux         64 hrs 13 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.32 %
-Mac           51 hrs 19 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 5.85 %
+Mac           51 hrs 25 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 5.86 %
 ```
 <!--END_SECTION:os-->
 </p>
@@ -202,7 +202,7 @@ Mac           51 hrs 19 mins █░░░░░░░░░░░░░░░░
 <p align="center"> 
     <i>
         ⏰ Timezone : Asia/Bangkok
-        ⏰ Last Updated: <!--LAST_UPDATED-->26 October 2026 03:27:18 (UTC+7)<!--END_LAST_UPDATED-->
-        🔄️ Update Count: <!--UPDATE_COUNT-->2531<!--END_UPDATE_COUNT-->
+        ⏰ Last Updated: <!--LAST_UPDATED-->26 October 2026 10:32:26 (UTC+7)<!--END_LAST_UPDATED-->
+        🔄️ Update Count: <!--UPDATE_COUNT-->2532<!--END_UPDATE_COUNT-->
     </i>
 </p>
