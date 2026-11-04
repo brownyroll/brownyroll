@@ -69,9 +69,9 @@
 <!--START_SECTION:waka-->
 ```text
 💬 Programming Languages:
-Other         391 hrs 3 mins ███████████░░░░░░░░░░░░░░ 44.59 %
-TypeScript   189 hrs 14 mins █████░░░░░░░░░░░░░░░░░░░░ 21.58 %
-YAML          62 hrs 23 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.11 %
+Other        391 hrs 10 mins ███████████░░░░░░░░░░░░░░ 44.60 %
+TypeScript   189 hrs 14 mins █████░░░░░░░░░░░░░░░░░░░░ 21.57 %
+YAML          62 hrs 24 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.11 %
 JavaScript    32 hrs 34 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.71 %
 Markdown      28 hrs 13 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.22 %
 PHP           25 hrs 49 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.94 %
@@ -152,7 +152,7 @@ NavicatPremium           17 hrs 43 mins █░░░░░░░░░░░░�
 Claude Code              16 hrs 54 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.93 %
 Antigravity              13 hrs 54 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.59 %
 Settings                 12 hrs 35 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.44 %
-Codex Vscode             11 hrs 14 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.28 %
+Codex Vscode             11 hrs 20 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.29 %
 MicrosoftOutlook          11 hrs 6 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.27 %
 WindowsTerminalHost       11 hrs 6 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.27 %
 TaskManager               8 hrs 36 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.98 %
@@ -185,9 +185,9 @@ pgAdmin4                         0 mins ░░░░░░░░░░░░░�
 <!--START_SECTION:os-->
 ```text
 💻 Operating System:
-Windows      761 hrs 23 mins ██████████████████████░░░ 86.81 %
+Windows      761 hrs 23 mins ██████████████████████░░░ 86.80 %
 Linux         64 hrs 13 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.32 %
-Mac           51 hrs 25 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 5.86 %
+Mac           51 hrs 32 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 5.88 %
 ```
 <!--END_SECTION:os-->
 </p>
@@ -202,7 +202,7 @@ Mac           51 hrs 25 mins █░░░░░░░░░░░░░░░░
 <p align="center"> 
     <i>
         ⏰ Timezone : Asia/Bangkok
-        ⏰ Last Updated: <!--LAST_UPDATED-->04 November 2026 20:51:59 (UTC+7)<!--END_LAST_UPDATED-->
-        🔄️ Update Count: <!--UPDATE_COUNT-->2561<!--END_UPDATE_COUNT-->
+        ⏰ Last Updated: <!--LAST_UPDATED-->05 November 2026 06:16:19 (UTC+7)<!--END_LAST_UPDATED-->
+        🔄️ Update Count: <!--UPDATE_COUNT-->2562<!--END_UPDATE_COUNT-->
     </i>
 </p>
