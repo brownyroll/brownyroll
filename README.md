@@ -69,26 +69,26 @@
 <!--START_SECTION:waka-->
 ```text
 💬 Programming Languages:
-Other        391 hrs 10 mins ███████████░░░░░░░░░░░░░░ 44.60 %
-TypeScript   189 hrs 14 mins █████░░░░░░░░░░░░░░░░░░░░ 21.57 %
-YAML          62 hrs 24 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.11 %
+Other        391 hrs 17 mins ███████████░░░░░░░░░░░░░░ 44.54 %
+TypeScript   189 hrs 34 mins █████░░░░░░░░░░░░░░░░░░░░ 21.58 %
+YAML          62 hrs 24 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.10 %
 JavaScript    32 hrs 34 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.71 %
-Markdown      28 hrs 13 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.22 %
+Markdown      28 hrs 23 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.23 %
 PHP           25 hrs 49 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.94 %
 Skript        20 hrs 20 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.32 %
 Astro         13 hrs 47 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.57 %
 C#            13 hrs 42 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.56 %
-Bash          12 hrs 42 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.45 %
+Bash          12 hrs 54 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.47 %
 Vue.js        11 hrs 47 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.34 %
-Groff          10 hrs 8 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.16 %
+Groff          10 hrs 8 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.15 %
 Python         9 hrs 39 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.10 %
-JSON           9 hrs 26 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.08 %
-Java           8 hrs 33 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.98 %
+JSON           9 hrs 34 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.09 %
+Java           8 hrs 33 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.97 %
 Prisma         6 hrs 24 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.73 %
 HTML            5 hrs 4 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.58 %
 CSS            4 hrs 42 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.54 %
 Text           2 hrs 57 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.34 %
-Kotlin         2 hrs 40 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.31 %
+Kotlin         2 hrs 40 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.30 %
 Ruby            2 hrs 0 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.23 %
 XML             1 hr 48 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.21 %
 TOML            1 hr 38 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.19 %
@@ -98,12 +98,12 @@ CSHTML          1 hr 11 mins ░░░░░░░░░░░░░░░░░
 JSX                  59 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.11 %
 SQL                  52 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.10 %
 HTTP Request         49 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.09 %
+C++                  41 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.08 %
 Batchfile            32 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.06 %
 Git Config           31 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.06 %
 Gosu                 28 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.05 %
 CSV                  20 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.04 %
-C++                  15 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.03 %
-INI                  13 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.03 %
+INI                  17 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.03 %
 TSConfig             13 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.03 %
 Lua                  13 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.03 %
 SSH Config           11 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.02 %
@@ -139,22 +139,22 @@ git ignore            0 mins ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:editors-->
 ```text
 🔥 Editors:
-VS Code                  221 hrs 2 mins ██████░░░░░░░░░░░░░░░░░░░ 25.20 %
-Zed                     190 hrs 25 mins █████░░░░░░░░░░░░░░░░░░░░ 21.71 %
-RemoteDesktopConnection 112 hrs 21 mins ███░░░░░░░░░░░░░░░░░░░░░░ 12.81 %
-LINE                     73 hrs 23 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 8.37 %
-MobaXterm                 52 hrs 8 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 5.95 %
-OpenJDKPlatformbinary    29 hrs 32 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.37 %
-Cursor                   28 hrs 17 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.23 %
+VS Code                 222 hrs 24 mins ██████░░░░░░░░░░░░░░░░░░░ 25.31 %
+Zed                     190 hrs 25 mins █████░░░░░░░░░░░░░░░░░░░░ 21.67 %
+RemoteDesktopConnection 112 hrs 21 mins ███░░░░░░░░░░░░░░░░░░░░░░ 12.79 %
+LINE                     73 hrs 23 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 8.35 %
+MobaXterm                 52 hrs 8 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 5.94 %
+OpenJDKPlatformbinary    29 hrs 32 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.36 %
+Cursor                   28 hrs 17 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.22 %
 Antigravity IDE          24 hrs 39 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.81 %
 AnyDesk                  18 hrs 32 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.11 %
 NavicatPremium           17 hrs 43 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 2.02 %
-Claude Code              16 hrs 54 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.93 %
-Antigravity              13 hrs 54 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.59 %
-Settings                 12 hrs 35 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.44 %
-Codex Vscode             11 hrs 20 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.29 %
-MicrosoftOutlook          11 hrs 6 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.27 %
-WindowsTerminalHost       11 hrs 6 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.27 %
+Claude Code              16 hrs 54 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.92 %
+Antigravity              13 hrs 54 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.58 %
+Settings                 12 hrs 35 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.43 %
+Codex Vscode             11 hrs 24 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.30 %
+MicrosoftOutlook          11 hrs 6 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.26 %
+WindowsTerminalHost       11 hrs 6 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.26 %
 TaskManager               8 hrs 36 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.98 %
 Unknown Editor            3 hrs 56 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.45 %
 WindowsCommandProcessor   2 hrs 44 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.31 %
@@ -167,12 +167,13 @@ MicrosoftCopilot           1 hr 11 mins ░░░░░░░░░░░░░�
 DockerDesktop               1 hr 4 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.12 %
 DesktopSSHClient                55 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.10 %
 MicrosoftTeams                  50 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.10 %
-Postman                         50 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.10 %
+Postman                         50 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.09 %
 Aseprite                        45 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.09 %
 MicrosoftEdge                   40 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.08 %
 Java(TM)PlatformSEbinary         18 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.04 %
 AdobeLightroomClassic           14 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.03 %
 Visual Studio                    0 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00 %
+Antigravity Desktop              0 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00 %
 Discord                          0 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00 %
 MicrosoftPhoneLink               0 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00 %
 pgAdmin4                         0 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00 %
@@ -185,9 +186,9 @@ pgAdmin4                         0 mins ░░░░░░░░░░░░░�
 <!--START_SECTION:os-->
 ```text
 💻 Operating System:
-Windows      761 hrs 23 mins ██████████████████████░░░ 86.80 %
-Linux         64 hrs 13 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.32 %
-Mac           51 hrs 32 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 5.88 %
+Windows      761 hrs 23 mins ██████████████████████░░░ 86.66 %
+Linux         64 hrs 13 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.31 %
+Mac           52 hrs 58 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 6.03 %
 ```
 <!--END_SECTION:os-->
 </p>
@@ -202,7 +203,7 @@ Mac           51 hrs 32 mins █░░░░░░░░░░░░░░░░
 <p align="center"> 
     <i>
         ⏰ Timezone : Asia/Bangkok
-        ⏰ Last Updated: <!--LAST_UPDATED-->13 November 2026 06:15:32 (UTC+7)<!--END_LAST_UPDATED-->
-        🔄️ Update Count: <!--UPDATE_COUNT-->2584<!--END_UPDATE_COUNT-->
+        ⏰ Last Updated: <!--LAST_UPDATED-->13 November 2026 12:24:41 (UTC+7)<!--END_LAST_UPDATED-->
+        🔄️ Update Count: <!--UPDATE_COUNT-->2585<!--END_UPDATE_COUNT-->
     </i>
 </p>
