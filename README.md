@@ -69,7 +69,7 @@
 <!--START_SECTION:waka-->
 ```text
 💬 Programming Languages:
-Other        391 hrs 17 mins ███████████░░░░░░░░░░░░░░ 44.54 %
+Other        391 hrs 20 mins ███████████░░░░░░░░░░░░░░ 44.54 %
 TypeScript   189 hrs 34 mins █████░░░░░░░░░░░░░░░░░░░░ 21.58 %
 YAML          62 hrs 24 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.10 %
 JavaScript    32 hrs 34 mins █░░░░░░░░░░░░░░░░░░░░░░░░ 3.71 %
@@ -98,7 +98,7 @@ CSHTML          1 hr 11 mins ░░░░░░░░░░░░░░░░░
 JSX                  59 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.11 %
 SQL                  52 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.10 %
 HTTP Request         49 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.09 %
-C++                  41 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.08 %
+C++                  42 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.08 %
 Batchfile            32 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.06 %
 Git Config           31 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.06 %
 Gosu                 28 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.05 %
@@ -139,7 +139,7 @@ git ignore            0 mins ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:editors-->
 ```text
 🔥 Editors:
-VS Code                 222 hrs 24 mins ██████░░░░░░░░░░░░░░░░░░░ 25.31 %
+VS Code                 222 hrs 25 mins ██████░░░░░░░░░░░░░░░░░░░ 25.31 %
 Zed                     190 hrs 25 mins █████░░░░░░░░░░░░░░░░░░░░ 21.67 %
 RemoteDesktopConnection 112 hrs 21 mins ███░░░░░░░░░░░░░░░░░░░░░░ 12.79 %
 LINE                     73 hrs 23 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 8.35 %
@@ -152,7 +152,7 @@ NavicatPremium           17 hrs 43 mins █░░░░░░░░░░░░�
 Claude Code              16 hrs 54 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.92 %
 Antigravity              13 hrs 54 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.58 %
 Settings                 12 hrs 35 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.43 %
-Codex Vscode             11 hrs 24 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.30 %
+Codex Vscode             11 hrs 27 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.30 %
 MicrosoftOutlook          11 hrs 6 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.26 %
 WindowsTerminalHost       11 hrs 6 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.26 %
 TaskManager               8 hrs 36 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.98 %
@@ -186,9 +186,9 @@ pgAdmin4                         0 mins ░░░░░░░░░░░░░�
 <!--START_SECTION:os-->
 ```text
 💻 Operating System:
-Windows      761 hrs 23 mins ██████████████████████░░░ 86.66 %
+Windows      761 hrs 23 mins ██████████████████████░░░ 86.65 %
 Linux         64 hrs 13 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.31 %
-Mac           52 hrs 58 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 6.03 %
+Mac            53 hrs 2 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 6.04 %
 ```
 <!--END_SECTION:os-->
 </p>
@@ -203,7 +203,7 @@ Mac           52 hrs 58 mins ██░░░░░░░░░░░░░░░
 <p align="center"> 
     <i>
         ⏰ Timezone : Asia/Bangkok
-        ⏰ Last Updated: <!--LAST_UPDATED-->14 November 2026 06:17:46 (UTC+7)<!--END_LAST_UPDATED-->
-        🔄️ Update Count: <!--UPDATE_COUNT-->2587<!--END_UPDATE_COUNT-->
+        ⏰ Last Updated: <!--LAST_UPDATED-->14 November 2026 12:14:20 (UTC+7)<!--END_LAST_UPDATED-->
+        🔄️ Update Count: <!--UPDATE_COUNT-->2588<!--END_UPDATE_COUNT-->
     </i>
 </p>
