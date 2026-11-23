@@ -192,9 +192,9 @@ Copilot                          0 mins ░░░░░░░░░░░░░�
 <!--START_SECTION:os-->
 ```text
 💻 Operating System:
-Windows      761 hrs 23 mins █████████████████████░░░░ 84.03 %
-Mac           80 hrs 30 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 8.89 %
-Linux         64 hrs 13 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.09 %
+Windows      761 hrs 23 mins █████████████████████░░░░ 83.78 %
+Mac            83 hrs 9 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 9.15 %
+Linux         64 hrs 13 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.07 %
 ```
 <!--END_SECTION:os-->
 </p>
@@ -209,7 +209,7 @@ Linux         64 hrs 13 mins ██░░░░░░░░░░░░░░░
 <p align="center"> 
     <i>
         ⏰ Timezone : Asia/Bangkok
-        ⏰ Last Updated: <!--LAST_UPDATED-->23 November 2026 13:03:10 (UTC+7)<!--END_LAST_UPDATED-->
-        🔄️ Update Count: <!--UPDATE_COUNT-->2612<!--END_UPDATE_COUNT-->
+        ⏰ Last Updated: <!--LAST_UPDATED-->24 November 2026 06:27:49 (UTC+7)<!--END_LAST_UPDATED-->
+        🔄️ Update Count: <!--UPDATE_COUNT-->2613<!--END_UPDATE_COUNT-->
     </i>
 </p>
