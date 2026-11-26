@@ -93,14 +93,14 @@ Kotlin         2 hrs 40 mins ░░░░░░░░░░░░░░░░░
 TOML           2 hrs 22 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.26 %
 Ruby            2 hrs 0 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.22 %
 XML             1 hr 48 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.20 %
-INI             1 hr 36 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.18 %
+INI             1 hr 39 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.18 %
 Java Properties    1 hr 22 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.15 %
 Go              1 hr 16 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.14 %
 CSHTML          1 hr 11 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.13 %
 JSX                  59 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.11 %
 SQL                  52 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.10 %
 HTTP Request         49 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.09 %
-C++                  42 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.08 %
+C++                  44 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.08 %
 Git Config           34 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.06 %
 Batchfile            32 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.06 %
 Gosu                 28 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.05 %
@@ -209,7 +209,7 @@ Linux         64 hrs 13 mins ██░░░░░░░░░░░░░░░
 <p align="center"> 
     <i>
         ⏰ Timezone : Asia/Bangkok
-        ⏰ Last Updated: <!--LAST_UPDATED-->26 November 2026 14:05:40 (UTC+7)<!--END_LAST_UPDATED-->
-        🔄️ Update Count: <!--UPDATE_COUNT-->2618<!--END_UPDATE_COUNT-->
+        ⏰ Last Updated: <!--LAST_UPDATED-->27 November 2026 03:59:25 (UTC+7)<!--END_LAST_UPDATED-->
+        🔄️ Update Count: <!--UPDATE_COUNT-->2619<!--END_UPDATE_COUNT-->
     </i>
 </p>
