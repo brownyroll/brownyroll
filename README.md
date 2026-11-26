@@ -141,7 +141,7 @@ git ignore            0 mins ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:editors-->
 ```text
 🔥 Editors:
-VS Code                 235 hrs 41 mins ██████░░░░░░░░░░░░░░░░░░░ 25.94 %
+VS Code                 235 hrs 45 mins ██████░░░░░░░░░░░░░░░░░░░ 25.94 %
 Zed                     190 hrs 25 mins █████░░░░░░░░░░░░░░░░░░░░ 20.95 %
 RemoteDesktopConnection 112 hrs 21 mins ███░░░░░░░░░░░░░░░░░░░░░░ 12.36 %
 LINE                     73 hrs 23 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 8.08 %
@@ -158,7 +158,7 @@ Settings                 12 hrs 35 mins ░░░░░░░░░░░░░�
 MicrosoftOutlook          11 hrs 6 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.22 %
 WindowsTerminalHost       11 hrs 6 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.22 %
 TaskManager               8 hrs 36 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.95 %
-Antigravity Desktop       6 hrs 24 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.71 %
+Antigravity Desktop       6 hrs 25 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.71 %
 OpenCode                   5 hrs 9 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.57 %
 Unknown Editor            3 hrs 56 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.43 %
 WindowsCommandProcessor   2 hrs 44 mins ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.30 %
@@ -192,8 +192,8 @@ Copilot                          0 mins ░░░░░░░░░░░░░�
 <!--START_SECTION:os-->
 ```text
 💻 Operating System:
-Windows      761 hrs 23 mins █████████████████████░░░░ 83.78 %
-Mac            83 hrs 9 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 9.15 %
+Windows      761 hrs 23 mins █████████████████████░░░░ 83.77 %
+Mac           83 hrs 13 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 9.16 %
 Linux         64 hrs 13 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 7.07 %
 ```
 <!--END_SECTION:os-->
@@ -209,7 +209,7 @@ Linux         64 hrs 13 mins ██░░░░░░░░░░░░░░░
 <p align="center"> 
     <i>
         ⏰ Timezone : Asia/Bangkok
-        ⏰ Last Updated: <!--LAST_UPDATED-->26 November 2026 04:08:57 (UTC+7)<!--END_LAST_UPDATED-->
-        🔄️ Update Count: <!--UPDATE_COUNT-->2617<!--END_UPDATE_COUNT-->
+        ⏰ Last Updated: <!--LAST_UPDATED-->26 November 2026 14:05:40 (UTC+7)<!--END_LAST_UPDATED-->
+        🔄️ Update Count: <!--UPDATE_COUNT-->2618<!--END_UPDATE_COUNT-->
     </i>
 </p>
